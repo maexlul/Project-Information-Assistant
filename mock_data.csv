@@ -1,0 +1,1001 @@
+project_id,project_name,client_name,start_date,end_date,status,region,industry,description
+1,Project Atlas Expansion,Emirates,2023-09-10,2023-12-21,Completed,Middle East,Retail,Data center consolidation
+2,Project Nova Enhancement,ExxonMobil,2022-08-07,2025-12-14,On Track,Latin America,Healthcare,Data center consolidation
+3,Project Nova Migration,Ford,2020-04-03,2020-06-21,Cancelled,Middle East,Automotive,Mobile app redevelopment
+4,Project Helios Migration,Nestle,2022-12-11,2025-04-02,Delayed,Middle East,Automotive,Data center consolidation
+5,Project Helios Integration,HSBC,2021-03-24,2024-11-08,Proposed,Africa,Technology,Analytics dashboards
+6,Project Titan Enhancement,JP Morgan Chase,2020-03-26,2022-01-28,Proposed,North America,Insurance,Analytics dashboards
+7,Project Nova Upgrade,Banco Santander,2023-04-17,2023-06-17,Proposed,Africa,Retail,E-commerce platform integration
+8,Project Orion Upgrade,Volkswagen,2020-10-10,2023-11-18,Proposed,Latin America,Technology,E-commerce platform integration
+9,Project Gemini Expansion,Emirates,2020-12-21,2023-04-29,Cancelled,Africa,Retail,Cloud migration project
+10,Project Titan Analytics,Visa,2021-07-01,2024-02-09,On Track,Latin America,Insurance,E-commerce platform integration
+11,Project Helios Analytics,Ford,2021-06-10,2023-10-21,Proposed,Middle East,Insurance,Data center consolidation
+12,Project Nova Analytics,Samsung,2022-04-28,2024-04-08,Cancelled,APAC,Insurance,Upgrading legacy systems
+13,Project Orion Upgrade,Nestle,2022-07-04,2023-07-04,Completed,North America,Healthcare,Cloud migration project
+14,Project Gemini Enhancement,Emirates,2023-06-15,2025-12-14,Proposed,APAC,Automotive,Analytics dashboards
+15,Project Orion Integration,ExxonMobil,2022-10-25,2023-11-17,Delayed,APAC,Technology,Data center consolidation
+16,Project Vantage Integration,Wells Fargo,2021-04-14,2024-04-07,Proposed,APAC,Healthcare,Analytics dashboards
+17,Project Orion Enhancement,AT&T,2021-06-24,2024-05-21,Delayed,APAC,Healthcare,Analytics dashboards
+18,Project Orion Enhancement,Banco Santander,2022-11-14,2023-04-19,Cancelled,APAC,Telecom,Core banking overhaul
+19,Project Atlas Migration,Emirates,2022-07-16,2024-01-26,Delayed,North America,Technology,Cloud migration project
+20,Project Phoenix Upgrade,Amazon,2021-01-20,2021-12-31,Completed,North America,Technology,Analytics dashboards
+21,Project Phoenix Enhancement,AT&T,2020-04-07,2025-05-16,Proposed,North America,Telecom,Global ERP rollout
+22,Project Helios Analytics,Samsung,2023-09-04,2023-10-09,On Track,Latin America,Banking,Upgrading legacy systems
+23,Project Gemini Expansion,Visa,2020-03-31,2025-04-21,Delayed,Latin America,Automotive,Cloud migration project
+24,Project Helios Analytics,Novartis,2020-09-25,2022-03-09,Cancelled,Middle East,Telecom,Cloud migration project
+25,Project Phoenix Analytics,Deutsche Telekom,2023-06-21,2024-08-04,Cancelled,North America,Insurance,Global ERP rollout
+26,Project Phoenix Enhancement,AT&T,2020-08-26,2020-12-12,Proposed,Middle East,Telecom,Analytics dashboards
+27,Project Phoenix Upgrade,Banco Santander,2020-06-06,2021-11-12,Cancelled,Europe,Energy,Cloud migration project
+28,Project Nova Integration,Walmart,2020-04-16,2022-02-17,Completed,Europe,Banking,Global ERP rollout
+29,Project Gemini Analytics,American Express,2022-07-13,2023-08-18,Proposed,Europe,Automotive,Global ERP rollout
+30,Project Phoenix Enhancement,Apple,2020-11-23,2022-10-13,On Track,Latin America,Retail,Mobile app redevelopment
+31,Project Nova Migration,Apple,2022-03-27,2025-03-08,Delayed,Africa,Technology,E-commerce platform integration
+32,Project Titan Enhancement,HSBC,2023-09-29,2024-04-01,Completed,Middle East,Automotive,Mobile app redevelopment
+33,Project Atlas Analytics,HSBC,2021-08-30,2022-11-22,Delayed,Middle East,Banking,Analytics dashboards
+34,Project Titan Migration,Novartis,2020-07-23,2021-03-02,Completed,APAC,Automotive,E-commerce platform integration
+35,Project Vantage Upgrade,Vodafone,2021-11-22,2025-05-13,Proposed,Latin America,Banking,Mobile app redevelopment
+36,Project Gemini Upgrade,Vodafone,2023-10-02,2024-01-21,Proposed,Africa,Retail,Analytics dashboards
+37,Project Helios Migration,Banco Santander,2022-08-05,2024-04-12,Proposed,Latin America,Telecom,E-commerce platform integration
+38,Project Vantage Analytics,Ford,2021-11-22,2024-07-17,Delayed,Latin America,Energy,Cloud migration project
+39,Project Titan Enhancement,Repsol,2023-08-12,2025-10-31,Completed,Middle East,Automotive,E-commerce platform integration
+40,Project Phoenix Upgrade,Amazon,2023-03-23,2023-05-08,Cancelled,APAC,Technology,Core banking overhaul
+41,Project Atlas Migration,Samsung,2023-09-27,2025-04-14,On Track,Middle East,Insurance,Cloud migration project
+42,Project Nova Analytics,Emirates,2023-04-17,2024-05-27,Delayed,Latin America,Banking,E-commerce platform integration
+43,Project Orion Migration,American Express,2023-09-14,2024-09-11,Proposed,APAC,Technology,Analytics dashboards
+44,Project Titan Analytics,Coca-Cola,2020-05-28,2024-08-25,Proposed,North America,Telecom,Data center consolidation
+45,Project Phoenix Enhancement,Emirates,2023-02-17,2024-01-06,Completed,North America,Healthcare,Analytics dashboards
+46,Project Phoenix Enhancement,Nestle,2023-03-05,2023-11-16,Completed,Europe,Technology,Core banking overhaul
+47,Project Atlas Analytics,American Express,2023-09-10,2024-11-23,On Track,APAC,Healthcare,E-commerce platform integration
+48,Project Helios Integration,Sony,2020-01-08,2023-03-01,Cancelled,Latin America,Automotive,Data center consolidation
+49,Project Orion Enhancement,Wells Fargo,2021-01-15,2025-12-17,Cancelled,Europe,Technology,Mobile app redevelopment
+50,Project Phoenix Analytics,Emirates,2021-02-10,2025-12-10,Completed,North America,Automotive,Core banking overhaul
+51,Project Atlas Enhancement,Novartis,2020-03-07,2025-05-16,Cancelled,Europe,Banking,Core banking overhaul
+52,Project Atlas Migration,Banco Santander,2022-02-27,2022-06-10,Completed,Africa,Technology,Mobile app redevelopment
+53,Project Helios Analytics,Samsung,2021-05-03,2021-12-03,On Track,APAC,Banking,Core banking overhaul
+54,Project Helios Integration,Microsoft,2023-11-21,2024-11-27,Delayed,APAC,Banking,Upgrading legacy systems
+55,Project Vantage Enhancement,Visa,2023-03-02,2023-04-03,Proposed,APAC,Banking,E-commerce platform integration
+56,Project Nova Enhancement,JP Morgan Chase,2023-07-01,2023-08-12,Cancelled,Europe,Energy,Analytics dashboards
+57,Project Gemini Upgrade,Visa,2020-11-23,2024-06-10,Proposed,Europe,Banking,Global ERP rollout
+58,Project Phoenix Expansion,Amazon,2023-02-24,2025-07-29,Cancelled,APAC,Healthcare,Cloud migration project
+59,Project Nova Analytics,JP Morgan Chase,2022-08-17,2025-05-18,On Track,Latin America,Insurance,Core banking overhaul
+60,Project Titan Analytics,SAP,2023-02-15,2024-03-20,Proposed,North America,Healthcare,Analytics dashboards
+61,Project Helios Integration,Novartis,2022-10-23,2024-11-08,Delayed,Europe,Banking,Global ERP rollout
+62,Project Gemini Enhancement,Apple,2023-12-04,2024-01-29,Cancelled,North America,Insurance,Analytics dashboards
+63,Project Orion Upgrade,Visa,2022-11-18,2024-09-18,Delayed,North America,Retail,Cloud migration project
+64,Project Gemini Migration,British Telecom,2023-05-13,2025-07-26,Cancelled,Europe,Technology,Core banking overhaul
+65,Project Nova Analytics,Deutsche Telekom,2021-05-23,2023-06-10,Proposed,APAC,Healthcare,E-commerce platform integration
+66,Project Atlas Migration,Visa,2021-06-19,2022-03-24,Proposed,Europe,Energy,Mobile app redevelopment
+67,Project Orion Migration,British Telecom,2023-10-31,2025-11-03,Delayed,Latin America,Telecom,Analytics dashboards
+68,Project Phoenix Expansion,Coca-Cola,2020-03-07,2022-03-22,Proposed,Africa,Technology,Core banking overhaul
+69,Project Gemini Upgrade,Walmart,2023-08-14,2024-04-26,Delayed,APAC,Telecom,Cloud migration project
+70,Project Titan Integration,Apple,2020-08-11,2024-03-30,Completed,Europe,Automotive,Upgrading legacy systems
+71,Project Nova Analytics,HSBC,2020-08-03,2024-11-21,Proposed,Middle East,Energy,Data center consolidation
+72,Project Orion Expansion,Microsoft,2022-10-08,2025-02-14,On Track,Europe,Insurance,Global ERP rollout
+73,Project Helios Migration,Novartis,2023-07-08,2025-11-26,Proposed,Middle East,Banking,Analytics dashboards
+74,Project Phoenix Enhancement,Nestle,2023-07-06,2025-05-18,Proposed,North America,Banking,Core banking overhaul
+75,Project Helios Migration,JP Morgan Chase,2023-08-30,2025-05-30,Completed,Europe,Telecom,Core banking overhaul
+76,Project Nova Integration,Wells Fargo,2022-08-02,2024-08-26,Completed,North America,Technology,Analytics dashboards
+77,Project Titan Expansion,Volkswagen,2021-03-18,2022-01-02,Proposed,North America,Technology,Data center consolidation
+78,Project Helios Enhancement,Visa,2021-05-06,2023-08-22,Proposed,North America,Automotive,Upgrading legacy systems
+79,Project Vantage Migration,ExxonMobil,2022-05-14,2025-01-18,Delayed,Europe,Healthcare,Data center consolidation
+80,Project Gemini Integration,Samsung,2023-11-06,2024-01-07,Cancelled,Europe,Healthcare,Data center consolidation
+81,Project Vantage Expansion,Amazon,2022-11-07,2023-08-09,Cancelled,APAC,Technology,Cloud migration project
+82,Project Helios Integration,Novartis,2020-10-05,2022-03-26,Delayed,North America,Telecom,Analytics dashboards
+83,Project Helios Upgrade,Apple,2022-12-03,2023-05-03,Completed,Middle East,Banking,E-commerce platform integration
+84,Project Nova Expansion,AT&T,2022-04-04,2023-05-30,Delayed,Europe,Energy,Core banking overhaul
+85,Project Vantage Analytics,Nestle,2023-03-16,2025-10-12,Delayed,Europe,Automotive,Core banking overhaul
+86,Project Titan Expansion,Banco Santander,2021-04-14,2024-08-02,Delayed,APAC,Automotive,Global ERP rollout
+87,Project Atlas Integration,Deutsche Telekom,2021-05-25,2022-01-02,On Track,Europe,Technology,Analytics dashboards
+88,Project Gemini Migration,Banco Santander,2022-11-30,2025-02-23,On Track,Latin America,Healthcare,Analytics dashboards
+89,Project Orion Analytics,Sony,2020-02-16,2022-05-08,On Track,North America,Retail,Mobile app redevelopment
+90,Project Gemini Migration,Novartis,2023-03-13,2023-05-02,Completed,Latin America,Insurance,E-commerce platform integration
+91,Project Atlas Integration,American Express,2020-03-03,2023-05-10,Delayed,North America,Retail,Analytics dashboards
+92,Project Nova Expansion,Walmart,2021-10-02,2025-05-17,On Track,Latin America,Automotive,E-commerce platform integration
+93,Project Helios Migration,Walmart,2020-06-05,2022-11-05,Delayed,APAC,Energy,Analytics dashboards
+94,Project Titan Enhancement,Pfizer,2021-10-27,2023-06-30,Completed,Latin America,Telecom,Cloud migration project
+95,Project Titan Enhancement,Samsung,2021-09-25,2023-03-23,Cancelled,Latin America,Insurance,Upgrading legacy systems
+96,Project Gemini Enhancement,Repsol,2020-12-14,2022-02-03,On Track,Europe,Insurance,Analytics dashboards
+97,Project Helios Upgrade,AT&T,2020-09-26,2021-08-06,Delayed,North America,Automotive,Global ERP rollout
+98,Project Titan Enhancement,AT&T,2022-10-16,2023-04-30,Proposed,North America,Automotive,Analytics dashboards
+99,Project Orion Integration,Amazon,2020-03-24,2025-02-10,Proposed,Africa,Banking,Cloud migration project
+100,Project Orion Upgrade,AT&T,2022-06-24,2024-12-26,Cancelled,Middle East,Healthcare,Global ERP rollout
+101,Project Phoenix Upgrade,Sony,2022-11-16,2025-10-17,Cancelled,North America,Retail,Cloud migration project
+102,Project Helios Expansion,Novartis,2020-10-26,2024-01-25,Cancelled,Europe,Retail,Upgrading legacy systems
+103,Project Vantage Analytics,Walmart,2020-10-18,2023-12-05,Proposed,Middle East,Telecom,Data center consolidation
+104,Project Orion Integration,Visa,2023-07-13,2024-10-01,Completed,Europe,Banking,Analytics dashboards
+105,Project Nova Expansion,SAP,2020-01-02,2023-05-29,Completed,Africa,Technology,Cloud migration project
+106,Project Titan Expansion,Pfizer,2022-10-30,2025-05-08,Proposed,Europe,Healthcare,Core banking overhaul
+107,Project Atlas Enhancement,Banco Santander,2022-12-15,2023-06-10,On Track,APAC,Telecom,E-commerce platform integration
+108,Project Titan Expansion,British Telecom,2020-08-26,2021-02-13,Completed,Africa,Insurance,Cloud migration project
+109,Project Gemini Analytics,Coca-Cola,2022-10-20,2025-02-12,Completed,Africa,Automotive,Data center consolidation
+110,Project Titan Migration,Deutsche Telekom,2022-05-23,2024-12-11,On Track,North America,Healthcare,Cloud migration project
+111,Project Phoenix Integration,Volkswagen,2021-05-02,2024-03-02,On Track,APAC,Technology,Data center consolidation
+112,Project Vantage Migration,Novartis,2023-05-22,2025-10-07,Completed,Middle East,Telecom,E-commerce platform integration
+113,Project Orion Expansion,Samsung,2023-06-06,2025-05-06,Completed,Europe,Automotive,Core banking overhaul
+114,Project Nova Expansion,Repsol,2022-03-03,2025-01-31,On Track,North America,Technology,Global ERP rollout
+115,Project Atlas Analytics,AT&T,2022-11-29,2025-09-05,Cancelled,Latin America,Automotive,E-commerce platform integration
+116,Project Gemini Expansion,Banco Santander,2020-03-27,2022-10-10,Proposed,North America,Telecom,Upgrading legacy systems
+117,Project Vantage Enhancement,IBM,2023-09-07,2023-10-29,Cancelled,APAC,Insurance,Mobile app redevelopment
+118,Project Orion Enhancement,Deutsche Telekom,2022-08-11,2024-05-21,Proposed,Europe,Automotive,Upgrading legacy systems
+119,Project Nova Upgrade,Emirates,2023-04-16,2023-09-03,Completed,Africa,Retail,Mobile app redevelopment
+120,Project Helios Upgrade,British Telecom,2020-04-19,2025-11-10,Completed,APAC,Banking,Data center consolidation
+121,Project Vantage Enhancement,JP Morgan Chase,2021-02-21,2022-01-17,Delayed,Latin America,Retail,Data center consolidation
+122,Project Phoenix Integration,Wells Fargo,2023-05-01,2023-10-23,On Track,Europe,Healthcare,Global ERP rollout
+123,Project Gemini Migration,Microsoft,2020-04-16,2023-01-03,On Track,North America,Banking,Global ERP rollout
+124,Project Nova Expansion,Coca-Cola,2020-08-06,2021-10-09,On Track,Middle East,Banking,Cloud migration project
+125,Project Orion Enhancement,Coca-Cola,2021-09-30,2023-03-08,On Track,Latin America,Telecom,Analytics dashboards
+126,Project Gemini Analytics,Banco Santander,2023-01-17,2024-04-19,Completed,Europe,Energy,Data center consolidation
+127,Project Atlas Enhancement,HSBC,2023-07-27,2025-02-19,Proposed,APAC,Technology,E-commerce platform integration
+128,Project Helios Integration,Pfizer,2022-10-27,2025-09-19,On Track,Middle East,Banking,Mobile app redevelopment
+129,Project Atlas Analytics,Pfizer,2020-06-18,2025-05-12,On Track,Middle East,Energy,Global ERP rollout
+130,Project Vantage Integration,British Telecom,2020-10-06,2022-06-12,Completed,Middle East,Banking,Data center consolidation
+131,Project Atlas Upgrade,Deutsche Telekom,2023-10-10,2024-09-18,Proposed,Latin America,Energy,Upgrading legacy systems
+132,Project Vantage Expansion,Deutsche Telekom,2022-04-25,2024-07-24,Delayed,Latin America,Energy,Upgrading legacy systems
+133,Project Phoenix Analytics,JP Morgan Chase,2020-05-28,2024-02-28,On Track,Latin America,Energy,E-commerce platform integration
+134,Project Nova Expansion,Deutsche Telekom,2020-01-13,2024-10-23,Proposed,Africa,Healthcare,Core banking overhaul
+135,Project Helios Enhancement,American Express,2021-09-10,2025-10-27,Cancelled,Africa,Banking,Cloud migration project
+136,Project Titan Expansion,Amazon,2022-02-19,2023-04-26,Delayed,APAC,Technology,Global ERP rollout
+137,Project Atlas Migration,Deutsche Telekom,2021-11-10,2023-03-05,Cancelled,APAC,Retail,Global ERP rollout
+138,Project Helios Migration,Ford,2022-04-22,2022-06-12,On Track,APAC,Retail,Mobile app redevelopment
+139,Project Nova Migration,IBM,2020-03-27,2023-09-04,Delayed,APAC,Banking,Upgrading legacy systems
+140,Project Gemini Upgrade,HSBC,2021-12-16,2025-08-01,Cancelled,Africa,Insurance,Global ERP rollout
+141,Project Helios Integration,Pfizer,2022-07-14,2025-07-31,Proposed,Africa,Technology,Data center consolidation
+142,Project Titan Expansion,British Telecom,2021-12-05,2025-01-02,Proposed,Middle East,Energy,Cloud migration project
+143,Project Orion Analytics,Banco Santander,2022-03-15,2024-07-03,Proposed,Latin America,Energy,Data center consolidation
+144,Project Vantage Enhancement,ExxonMobil,2022-12-31,2025-07-04,Delayed,North America,Banking,Cloud migration project
+145,Project Helios Migration,Repsol,2023-03-02,2024-06-09,On Track,Europe,Banking,Cloud migration project
+146,Project Titan Integration,JP Morgan Chase,2020-07-23,2021-03-27,On Track,Africa,Automotive,Mobile app redevelopment
+147,Project Orion Upgrade,AT&T,2021-07-15,2023-04-01,On Track,Latin America,Technology,Core banking overhaul
+148,Project Helios Analytics,Amazon,2022-04-26,2025-01-12,Cancelled,Africa,Retail,Data center consolidation
+149,Project Gemini Upgrade,Volkswagen,2020-01-10,2023-08-06,Delayed,North America,Telecom,Global ERP rollout
+150,Project Orion Migration,Vodafone,2020-05-06,2020-10-27,On Track,Middle East,Retail,Cloud migration project
+151,Project Orion Migration,SAP,2021-07-08,2025-08-24,On Track,APAC,Telecom,Data center consolidation
+152,Project Orion Integration,Volkswagen,2023-10-23,2024-01-22,Completed,Latin America,Healthcare,Analytics dashboards
+153,Project Helios Upgrade,Amazon,2022-07-12,2022-10-24,Proposed,Middle East,Technology,Mobile app redevelopment
+154,Project Phoenix Migration,AT&T,2022-03-08,2024-02-12,Proposed,Africa,Banking,Global ERP rollout
+155,Project Helios Migration,HSBC,2023-01-16,2024-11-30,Delayed,North America,Healthcare,Core banking overhaul
+156,Project Nova Enhancement,Emirates,2020-04-04,2020-12-30,On Track,Middle East,Energy,E-commerce platform integration
+157,Project Phoenix Integration,SAP,2021-11-04,2022-03-15,On Track,APAC,Automotive,Cloud migration project
+158,Project Atlas Integration,Vodafone,2022-05-17,2023-02-07,On Track,North America,Healthcare,Analytics dashboards
+159,Project Vantage Upgrade,Ford,2020-02-29,2025-08-15,Proposed,Latin America,Healthcare,Core banking overhaul
+160,Project Phoenix Enhancement,Samsung,2022-11-02,2023-10-19,Completed,Latin America,Healthcare,E-commerce platform integration
+161,Project Orion Integration,AT&T,2023-06-08,2023-12-15,Completed,Europe,Banking,E-commerce platform integration
+162,Project Gemini Analytics,Wells Fargo,2021-11-20,2023-03-20,Proposed,APAC,Automotive,Upgrading legacy systems
+163,Project Nova Analytics,AT&T,2023-10-04,2024-01-06,Delayed,APAC,Banking,Mobile app redevelopment
+164,Project Helios Integration,SAP,2020-01-10,2024-01-04,On Track,Africa,Retail,Upgrading legacy systems
+165,Project Helios Upgrade,Pfizer,2022-10-03,2023-07-03,On Track,APAC,Energy,Upgrading legacy systems
+166,Project Nova Migration,Walmart,2021-02-25,2025-03-02,Delayed,Latin America,Energy,Analytics dashboards
+167,Project Nova Analytics,ExxonMobil,2023-11-13,2025-03-24,On Track,Middle East,Healthcare,Global ERP rollout
+168,Project Helios Upgrade,Microsoft,2023-02-19,2025-10-06,Proposed,Latin America,Healthcare,Core banking overhaul
+169,Project Helios Enhancement,Coca-Cola,2023-03-23,2023-10-21,Completed,Europe,Healthcare,E-commerce platform integration
+170,Project Nova Expansion,HSBC,2021-07-22,2022-07-29,Completed,Africa,Automotive,Core banking overhaul
+171,Project Vantage Enhancement,HSBC,2022-02-08,2022-09-21,Cancelled,Africa,Telecom,Mobile app redevelopment
+172,Project Atlas Enhancement,JP Morgan Chase,2022-05-06,2024-09-13,Proposed,North America,Insurance,Cloud migration project
+173,Project Helios Analytics,Coca-Cola,2021-05-08,2022-04-24,On Track,Africa,Technology,Mobile app redevelopment
+174,Project Nova Enhancement,Banco Santander,2022-05-08,2023-02-19,Cancelled,North America,Healthcare,Analytics dashboards
+175,Project Atlas Expansion,Apple,2021-05-11,2023-03-20,Delayed,Middle East,Telecom,Core banking overhaul
+176,Project Atlas Analytics,HSBC,2021-10-28,2022-07-16,Completed,Latin America,Energy,Analytics dashboards
+177,Project Titan Expansion,Pfizer,2020-01-16,2024-04-04,Proposed,Latin America,Automotive,Analytics dashboards
+178,Project Gemini Expansion,HSBC,2021-03-10,2022-04-14,Proposed,Latin America,Insurance,E-commerce platform integration
+179,Project Vantage Enhancement,Walmart,2021-05-15,2021-06-24,Proposed,Africa,Technology,Upgrading legacy systems
+180,Project Helios Analytics,AT&T,2022-12-08,2025-10-10,Completed,APAC,Insurance,Data center consolidation
+181,Project Titan Integration,JP Morgan Chase,2021-06-04,2022-06-26,Cancelled,Latin America,Telecom,Data center consolidation
+182,Project Gemini Enhancement,Banco Santander,2020-04-03,2022-06-01,Delayed,Europe,Technology,Data center consolidation
+183,Project Titan Enhancement,Novartis,2023-11-11,2024-12-29,Cancelled,North America,Telecom,Core banking overhaul
+184,Project Nova Analytics,Amazon,2021-08-03,2024-08-17,Cancelled,Middle East,Energy,Data center consolidation
+185,Project Nova Upgrade,Wells Fargo,2022-11-21,2024-12-31,Completed,APAC,Telecom,Upgrading legacy systems
+186,Project Phoenix Migration,Vodafone,2022-11-25,2023-07-17,Completed,Latin America,Banking,Core banking overhaul
+187,Project Titan Migration,American Express,2023-08-04,2025-01-25,Proposed,Africa,Energy,Global ERP rollout
+188,Project Orion Integration,Banco Santander,2020-08-04,2023-09-15,Cancelled,North America,Banking,Cloud migration project
+189,Project Vantage Enhancement,Walmart,2020-07-06,2024-08-25,Proposed,North America,Energy,Analytics dashboards
+190,Project Gemini Expansion,American Express,2022-09-24,2023-04-15,Proposed,Europe,Energy,Core banking overhaul
+191,Project Atlas Enhancement,Pfizer,2020-04-12,2023-07-28,Proposed,Latin America,Banking,Upgrading legacy systems
+192,Project Titan Enhancement,Wells Fargo,2020-08-17,2022-05-17,Delayed,Europe,Banking,Mobile app redevelopment
+193,Project Atlas Integration,Repsol,2020-06-26,2025-02-27,On Track,North America,Automotive,Core banking overhaul
+194,Project Titan Integration,Apple,2023-04-12,2023-11-18,Completed,North America,Technology,E-commerce platform integration
+195,Project Nova Enhancement,Walmart,2023-01-02,2024-01-28,Delayed,Latin America,Energy,Global ERP rollout
+196,Project Titan Analytics,Emirates,2022-06-29,2024-02-05,Completed,Europe,Telecom,Analytics dashboards
+197,Project Helios Enhancement,Coca-Cola,2021-08-07,2022-08-11,Proposed,Latin America,Energy,Data center consolidation
+198,Project Titan Enhancement,Visa,2020-06-17,2021-09-14,Completed,Latin America,Insurance,Core banking overhaul
+199,Project Helios Expansion,IBM,2021-08-19,2021-08-28,Proposed,Europe,Insurance,E-commerce platform integration
+200,Project Helios Expansion,Banco Santander,2022-05-20,2023-10-06,Completed,APAC,Insurance,Mobile app redevelopment
+201,Project Gemini Enhancement,Vodafone,2023-07-26,2023-09-23,Delayed,APAC,Healthcare,Upgrading legacy systems
+202,Project Helios Upgrade,AT&T,2021-07-12,2023-09-30,Completed,Europe,Telecom,Mobile app redevelopment
+203,Project Titan Migration,Nestle,2020-05-15,2020-07-17,Delayed,Europe,Automotive,E-commerce platform integration
+204,Project Titan Expansion,Emirates,2023-01-29,2024-05-05,Proposed,Middle East,Energy,E-commerce platform integration
+205,Project Atlas Upgrade,Amazon,2022-09-01,2024-12-17,Cancelled,Europe,Banking,Mobile app redevelopment
+206,Project Nova Integration,AT&T,2022-12-05,2024-09-06,Delayed,Latin America,Retail,Cloud migration project
+207,Project Phoenix Enhancement,Nestle,2021-02-03,2025-08-06,Completed,Latin America,Insurance,Upgrading legacy systems
+208,Project Gemini Integration,Samsung,2021-04-29,2023-05-10,Proposed,APAC,Technology,Mobile app redevelopment
+209,Project Nova Enhancement,Deutsche Telekom,2022-12-06,2023-02-02,Proposed,Europe,Healthcare,Analytics dashboards
+210,Project Nova Integration,Emirates,2023-08-25,2024-08-30,On Track,Middle East,Telecom,Data center consolidation
+211,Project Atlas Expansion,Apple,2021-02-23,2023-11-07,Completed,Europe,Retail,Data center consolidation
+212,Project Atlas Upgrade,Repsol,2023-07-09,2024-07-07,Proposed,APAC,Insurance,Upgrading legacy systems
+213,Project Gemini Analytics,British Telecom,2023-03-13,2025-06-08,Proposed,APAC,Telecom,E-commerce platform integration
+214,Project Vantage Enhancement,Walmart,2023-10-02,2024-03-13,Completed,Latin America,Telecom,Cloud migration project
+215,Project Titan Migration,Wells Fargo,2023-01-30,2023-07-21,Completed,Middle East,Retail,E-commerce platform integration
+216,Project Helios Analytics,SAP,2021-09-19,2023-08-06,Cancelled,APAC,Automotive,Data center consolidation
+217,Project Atlas Analytics,Coca-Cola,2021-09-21,2023-11-03,Delayed,Middle East,Insurance,Upgrading legacy systems
+218,Project Nova Integration,Deutsche Telekom,2022-04-23,2025-06-11,Delayed,Africa,Banking,Global ERP rollout
+219,Project Nova Enhancement,Volkswagen,2021-12-21,2025-12-22,Delayed,Latin America,Telecom,Mobile app redevelopment
+220,Project Phoenix Enhancement,IBM,2020-09-21,2022-06-08,On Track,North America,Automotive,Mobile app redevelopment
+221,Project Phoenix Analytics,AT&T,2022-08-11,2024-10-26,On Track,Europe,Automotive,Core banking overhaul
+222,Project Vantage Enhancement,AT&T,2021-11-23,2022-09-01,Proposed,Africa,Healthcare,Core banking overhaul
+223,Project Gemini Expansion,Samsung,2022-03-14,2024-11-29,Proposed,Middle East,Automotive,Core banking overhaul
+224,Project Vantage Expansion,Coca-Cola,2023-12-11,2025-05-18,Cancelled,North America,Energy,E-commerce platform integration
+225,Project Orion Analytics,Visa,2021-11-16,2023-10-13,Completed,Europe,Banking,Global ERP rollout
+226,Project Titan Enhancement,Novartis,2021-11-09,2022-09-09,Proposed,Middle East,Technology,Cloud migration project
+227,Project Atlas Enhancement,American Express,2022-06-28,2025-08-31,Proposed,Africa,Healthcare,Upgrading legacy systems
+228,Project Gemini Analytics,Repsol,2020-05-23,2025-04-19,Cancelled,North America,Retail,Data center consolidation
+229,Project Phoenix Enhancement,Sony,2020-05-27,2022-02-27,Cancelled,North America,Healthcare,Data center consolidation
+230,Project Gemini Migration,Amazon,2020-09-27,2020-12-01,Proposed,North America,Automotive,Mobile app redevelopment
+231,Project Orion Expansion,Sony,2022-03-28,2025-10-07,Proposed,Latin America,Banking,E-commerce platform integration
+232,Project Vantage Upgrade,Wells Fargo,2022-06-16,2023-08-04,Cancelled,Africa,Insurance,Global ERP rollout
+233,Project Atlas Upgrade,HSBC,2020-05-08,2023-10-07,Delayed,Europe,Automotive,Upgrading legacy systems
+234,Project Phoenix Upgrade,Novartis,2023-09-29,2023-11-06,Delayed,North America,Technology,Analytics dashboards
+235,Project Vantage Analytics,Ford,2020-01-23,2022-12-02,Cancelled,Europe,Insurance,Core banking overhaul
+236,Project Helios Migration,Novartis,2021-04-17,2021-11-24,On Track,APAC,Healthcare,Cloud migration project
+237,Project Vantage Migration,Coca-Cola,2023-04-25,2025-09-22,Cancelled,North America,Energy,Mobile app redevelopment
+238,Project Nova Integration,SAP,2020-11-28,2022-02-11,Delayed,Europe,Technology,Cloud migration project
+239,Project Vantage Expansion,Samsung,2021-08-22,2025-06-11,On Track,North America,Technology,Analytics dashboards
+240,Project Gemini Integration,IBM,2022-05-18,2023-03-30,Cancelled,Latin America,Automotive,Data center consolidation
+241,Project Nova Expansion,Deutsche Telekom,2023-02-14,2025-11-11,On Track,APAC,Telecom,Cloud migration project
+242,Project Phoenix Analytics,Amazon,2021-09-05,2023-11-17,Cancelled,APAC,Telecom,E-commerce platform integration
+243,Project Helios Enhancement,Ford,2023-11-25,2024-09-02,Cancelled,Latin America,Insurance,Cloud migration project
+244,Project Vantage Upgrade,ExxonMobil,2020-05-05,2023-03-10,On Track,APAC,Healthcare,E-commerce platform integration
+245,Project Nova Integration,IBM,2022-12-17,2024-12-26,Cancelled,Latin America,Automotive,Analytics dashboards
+246,Project Vantage Upgrade,Emirates,2020-09-29,2022-03-22,Cancelled,APAC,Banking,Mobile app redevelopment
+247,Project Gemini Migration,Wells Fargo,2021-06-16,2022-05-20,On Track,Latin America,Healthcare,Data center consolidation
+248,Project Nova Expansion,Coca-Cola,2020-10-13,2022-11-10,On Track,Africa,Telecom,Cloud migration project
+249,Project Titan Migration,Pfizer,2020-11-19,2022-07-26,Proposed,Europe,Technology,Upgrading legacy systems
+250,Project Atlas Upgrade,British Telecom,2022-01-21,2023-05-18,Completed,Middle East,Insurance,E-commerce platform integration
+251,Project Phoenix Analytics,Nestle,2020-10-22,2025-02-06,Proposed,North America,Healthcare,E-commerce platform integration
+252,Project Gemini Migration,Emirates,2022-04-20,2024-08-06,On Track,APAC,Banking,Core banking overhaul
+253,Project Phoenix Integration,Apple,2022-02-22,2024-09-08,Delayed,Africa,Banking,Data center consolidation
+254,Project Atlas Expansion,HSBC,2023-10-27,2023-12-04,Completed,Africa,Retail,E-commerce platform integration
+255,Project Atlas Expansion,British Telecom,2023-01-26,2023-06-25,On Track,Latin America,Telecom,Cloud migration project
+256,Project Gemini Expansion,Pfizer,2023-11-29,2025-06-01,Cancelled,Africa,Insurance,Core banking overhaul
+257,Project Orion Enhancement,Samsung,2020-11-26,2025-10-16,Completed,Europe,Retail,Cloud migration project
+258,Project Helios Enhancement,Sony,2022-11-23,2023-06-15,Delayed,APAC,Telecom,Mobile app redevelopment
+259,Project Titan Analytics,Vodafone,2023-04-15,2023-06-23,Proposed,Latin America,Banking,Mobile app redevelopment
+260,Project Titan Expansion,Wells Fargo,2022-07-21,2025-11-21,On Track,APAC,Banking,Analytics dashboards
+261,Project Phoenix Expansion,Pfizer,2023-11-23,2025-10-06,On Track,Africa,Banking,Upgrading legacy systems
+262,Project Phoenix Enhancement,SAP,2021-10-10,2023-03-02,Completed,Middle East,Automotive,Mobile app redevelopment
+263,Project Titan Upgrade,Microsoft,2020-08-06,2025-03-29,Delayed,Africa,Energy,Upgrading legacy systems
+264,Project Atlas Migration,Wells Fargo,2021-04-07,2023-02-21,Completed,Middle East,Technology,Global ERP rollout
+265,Project Nova Enhancement,IBM,2021-12-14,2025-01-24,Delayed,North America,Telecom,Upgrading legacy systems
+266,Project Vantage Migration,American Express,2021-02-17,2022-06-10,On Track,Africa,Energy,Cloud migration project
+267,Project Nova Enhancement,British Telecom,2020-01-18,2022-07-04,On Track,Middle East,Automotive,Global ERP rollout
+268,Project Phoenix Expansion,Deutsche Telekom,2023-02-21,2023-09-09,On Track,North America,Banking,Cloud migration project
+269,Project Phoenix Integration,JP Morgan Chase,2020-11-01,2020-11-14,On Track,North America,Insurance,Data center consolidation
+270,Project Nova Upgrade,Repsol,2023-11-30,2025-07-28,Delayed,Africa,Insurance,Core banking overhaul
+271,Project Gemini Upgrade,AT&T,2022-12-02,2025-11-08,Completed,Latin America,Automotive,Mobile app redevelopment
+272,Project Nova Upgrade,Ford,2022-06-29,2024-01-31,Completed,Europe,Energy,Analytics dashboards
+273,Project Vantage Expansion,Microsoft,2022-01-23,2025-04-13,Completed,APAC,Automotive,Data center consolidation
+274,Project Nova Upgrade,Apple,2023-09-03,2025-01-18,On Track,North America,Retail,Global ERP rollout
+275,Project Orion Expansion,AT&T,2021-01-20,2024-06-06,Delayed,Middle East,Technology,Cloud migration project
+276,Project Gemini Upgrade,Deutsche Telekom,2023-09-08,2024-02-10,Proposed,Latin America,Insurance,Cloud migration project
+277,Project Vantage Upgrade,Vodafone,2021-11-03,2025-04-06,Proposed,Middle East,Insurance,Analytics dashboards
+278,Project Atlas Upgrade,Sony,2021-07-06,2024-05-02,Completed,Europe,Energy,Data center consolidation
+279,Project Nova Upgrade,American Express,2023-09-21,2025-09-01,On Track,Latin America,Technology,Data center consolidation
+280,Project Phoenix Analytics,Nestle,2022-12-13,2023-01-20,Completed,APAC,Retail,E-commerce platform integration
+281,Project Nova Integration,Coca-Cola,2020-09-09,2023-08-16,Delayed,North America,Banking,Data center consolidation
+282,Project Nova Enhancement,Volkswagen,2023-09-11,2024-04-16,Proposed,APAC,Banking,Cloud migration project
+283,Project Helios Migration,SAP,2022-02-16,2024-06-03,Delayed,Africa,Banking,Upgrading legacy systems
+284,Project Titan Analytics,Samsung,2022-03-21,2022-09-26,Delayed,Middle East,Automotive,Mobile app redevelopment
+285,Project Vantage Analytics,Pfizer,2023-08-18,2025-06-22,Cancelled,APAC,Energy,Data center consolidation
+286,Project Atlas Integration,SAP,2022-04-08,2024-05-27,Proposed,North America,Banking,Core banking overhaul
+287,Project Nova Analytics,Nestle,2023-11-06,2025-07-01,On Track,North America,Energy,Data center consolidation
+288,Project Helios Expansion,ExxonMobil,2022-10-12,2025-11-20,Proposed,Latin America,Retail,Analytics dashboards
+289,Project Vantage Upgrade,AT&T,2022-03-15,2023-02-02,Cancelled,Africa,Insurance,E-commerce platform integration
+290,Project Titan Integration,Ford,2020-04-19,2022-11-08,On Track,North America,Telecom,Mobile app redevelopment
+291,Project Vantage Upgrade,Volkswagen,2023-08-05,2025-07-15,On Track,Middle East,Healthcare,Data center consolidation
+292,Project Gemini Expansion,Deutsche Telekom,2020-03-20,2021-07-11,Proposed,Latin America,Banking,Global ERP rollout
+293,Project Vantage Analytics,Ford,2021-05-25,2022-12-15,Delayed,Middle East,Insurance,Global ERP rollout
+294,Project Nova Integration,British Telecom,2020-01-06,2022-05-25,On Track,APAC,Healthcare,Core banking overhaul
+295,Project Phoenix Integration,Volkswagen,2022-12-27,2024-12-09,On Track,Latin America,Banking,Analytics dashboards
+296,Project Orion Enhancement,American Express,2023-04-22,2024-11-09,Proposed,Africa,Healthcare,E-commerce platform integration
+297,Project Titan Analytics,Emirates,2022-11-22,2024-03-04,Proposed,North America,Energy,Cloud migration project
+298,Project Vantage Migration,Coca-Cola,2022-05-31,2023-07-09,Delayed,Europe,Technology,Global ERP rollout
+299,Project Nova Integration,American Express,2021-07-26,2023-10-11,On Track,Latin America,Retail,E-commerce platform integration
+300,Project Helios Upgrade,Nestle,2023-01-07,2024-08-30,On Track,APAC,Automotive,Core banking overhaul
+301,Project Titan Migration,Banco Santander,2022-07-01,2024-07-08,Proposed,Middle East,Retail,Global ERP rollout
+302,Project Atlas Analytics,Nestle,2022-05-09,2024-01-22,On Track,Europe,Banking,Core banking overhaul
+303,Project Titan Upgrade,Pfizer,2023-05-18,2025-03-28,Proposed,Africa,Automotive,Global ERP rollout
+304,Project Orion Migration,Coca-Cola,2023-04-30,2024-07-21,Proposed,North America,Telecom,Mobile app redevelopment
+305,Project Helios Integration,Novartis,2023-07-18,2023-11-01,Cancelled,Latin America,Retail,Analytics dashboards
+306,Project Phoenix Enhancement,JP Morgan Chase,2023-08-11,2023-12-06,Completed,APAC,Technology,Upgrading legacy systems
+307,Project Phoenix Enhancement,HSBC,2022-04-06,2023-03-02,Proposed,North America,Technology,Upgrading legacy systems
+308,Project Vantage Migration,Novartis,2020-11-11,2022-02-09,Completed,Europe,Telecom,E-commerce platform integration
+309,Project Helios Integration,Emirates,2022-11-21,2025-03-20,Delayed,Latin America,Banking,Core banking overhaul
+310,Project Gemini Expansion,HSBC,2021-02-25,2023-11-11,Cancelled,Africa,Retail,Global ERP rollout
+311,Project Vantage Migration,Visa,2022-09-14,2023-10-16,Proposed,Middle East,Telecom,Mobile app redevelopment
+312,Project Orion Analytics,AT&T,2020-08-06,2023-05-25,Delayed,Africa,Banking,Upgrading legacy systems
+313,Project Titan Enhancement,Visa,2023-04-02,2024-12-04,Cancelled,North America,Technology,Cloud migration project
+314,Project Vantage Upgrade,ExxonMobil,2022-03-25,2024-01-02,Proposed,APAC,Healthcare,Analytics dashboards
+315,Project Titan Migration,Sony,2022-05-04,2024-01-22,Completed,Europe,Technology,Core banking overhaul
+316,Project Atlas Upgrade,Wells Fargo,2023-10-02,2025-12-30,On Track,Latin America,Healthcare,Core banking overhaul
+317,Project Gemini Analytics,Samsung,2021-09-05,2024-08-23,Completed,Africa,Healthcare,Global ERP rollout
+318,Project Helios Upgrade,HSBC,2022-07-20,2023-07-10,On Track,Latin America,Insurance,Analytics dashboards
+319,Project Vantage Expansion,Emirates,2023-12-23,2024-05-22,On Track,Europe,Automotive,Mobile app redevelopment
+320,Project Vantage Migration,Pfizer,2022-10-04,2025-10-27,Cancelled,North America,Energy,E-commerce platform integration
+321,Project Titan Integration,American Express,2020-04-07,2023-07-21,Proposed,Latin America,Banking,Upgrading legacy systems
+322,Project Vantage Upgrade,Microsoft,2023-01-18,2024-12-30,Cancelled,Latin America,Technology,Analytics dashboards
+323,Project Phoenix Migration,Apple,2021-01-23,2024-02-19,Completed,Africa,Healthcare,Global ERP rollout
+324,Project Gemini Expansion,British Telecom,2020-12-01,2023-10-31,Delayed,APAC,Banking,Upgrading legacy systems
+325,Project Vantage Expansion,JP Morgan Chase,2023-06-16,2025-01-06,Cancelled,Europe,Insurance,Data center consolidation
+326,Project Atlas Integration,Nestle,2022-07-24,2024-09-05,Proposed,North America,Telecom,E-commerce platform integration
+327,Project Orion Migration,Deutsche Telekom,2022-08-27,2025-04-18,Completed,Middle East,Automotive,E-commerce platform integration
+328,Project Helios Analytics,ExxonMobil,2022-04-02,2023-05-14,On Track,Latin America,Telecom,Core banking overhaul
+329,Project Nova Upgrade,ExxonMobil,2021-02-11,2023-11-22,On Track,Europe,Technology,Data center consolidation
+330,Project Vantage Expansion,Samsung,2023-01-18,2023-08-23,Delayed,Middle East,Telecom,Upgrading legacy systems
+331,Project Titan Migration,Microsoft,2022-12-07,2025-08-31,Completed,Europe,Insurance,Cloud migration project
+332,Project Nova Migration,Apple,2020-04-09,2025-03-12,On Track,APAC,Retail,Global ERP rollout
+333,Project Atlas Analytics,Walmart,2022-06-11,2023-10-11,Cancelled,Europe,Insurance,E-commerce platform integration
+334,Project Gemini Analytics,Novartis,2022-06-30,2024-09-14,Proposed,APAC,Automotive,Data center consolidation
+335,Project Nova Upgrade,Repsol,2021-09-15,2024-12-22,Delayed,APAC,Insurance,Mobile app redevelopment
+336,Project Orion Migration,Sony,2020-01-20,2024-03-29,Cancelled,Latin America,Technology,E-commerce platform integration
+337,Project Nova Enhancement,Deutsche Telekom,2023-04-14,2025-10-19,Proposed,North America,Automotive,Upgrading legacy systems
+338,Project Phoenix Upgrade,Samsung,2023-10-03,2025-03-19,Delayed,Latin America,Energy,Core banking overhaul
+339,Project Gemini Expansion,Repsol,2023-03-19,2023-09-12,Cancelled,APAC,Banking,E-commerce platform integration
+340,Project Helios Analytics,American Express,2022-09-13,2024-01-27,Completed,Africa,Insurance,Mobile app redevelopment
+341,Project Gemini Upgrade,American Express,2023-08-07,2024-03-22,Proposed,Africa,Banking,Core banking overhaul
+342,Project Nova Enhancement,Wells Fargo,2022-11-20,2024-02-04,Proposed,Latin America,Banking,Core banking overhaul
+343,Project Gemini Migration,Ford,2022-03-19,2022-10-15,Proposed,Middle East,Healthcare,Core banking overhaul
+344,Project Vantage Upgrade,Novartis,2022-10-17,2025-11-27,Delayed,Latin America,Retail,Cloud migration project
+345,Project Titan Integration,AT&T,2023-07-13,2024-10-09,Delayed,Latin America,Automotive,Global ERP rollout
+346,Project Vantage Migration,JP Morgan Chase,2021-08-18,2021-10-26,Proposed,Latin America,Technology,Upgrading legacy systems
+347,Project Titan Analytics,British Telecom,2022-12-06,2022-12-07,Cancelled,APAC,Banking,Upgrading legacy systems
+348,Project Helios Analytics,Pfizer,2023-08-29,2025-12-14,On Track,North America,Retail,Global ERP rollout
+349,Project Gemini Expansion,Deutsche Telekom,2022-10-28,2025-08-05,On Track,North America,Automotive,Data center consolidation
+350,Project Atlas Analytics,Deutsche Telekom,2020-11-03,2025-12-14,Cancelled,Europe,Telecom,E-commerce platform integration
+351,Project Gemini Migration,Ford,2021-06-08,2022-03-06,Proposed,North America,Insurance,Analytics dashboards
+352,Project Helios Migration,Banco Santander,2020-01-14,2020-03-05,Cancelled,Latin America,Retail,Core banking overhaul
+353,Project Orion Upgrade,Apple,2022-01-10,2025-05-05,On Track,Africa,Banking,Global ERP rollout
+354,Project Vantage Integration,AT&T,2020-01-11,2024-08-28,Cancelled,Latin America,Technology,Data center consolidation
+355,Project Nova Migration,American Express,2023-05-09,2025-09-25,Completed,Latin America,Banking,Cloud migration project
+356,Project Vantage Expansion,SAP,2023-12-20,2024-10-07,Completed,APAC,Healthcare,Mobile app redevelopment
+357,Project Titan Analytics,Coca-Cola,2023-07-27,2024-02-20,Completed,APAC,Technology,Analytics dashboards
+358,Project Orion Integration,SAP,2020-09-20,2021-08-13,On Track,APAC,Energy,Mobile app redevelopment
+359,Project Gemini Migration,Pfizer,2022-06-09,2024-11-15,On Track,North America,Banking,Upgrading legacy systems
+360,Project Helios Upgrade,Vodafone,2022-07-09,2023-09-25,Cancelled,Middle East,Retail,Global ERP rollout
+361,Project Vantage Enhancement,SAP,2022-03-04,2024-08-16,Completed,Latin America,Telecom,Global ERP rollout
+362,Project Helios Migration,JP Morgan Chase,2021-07-11,2023-01-08,On Track,North America,Banking,E-commerce platform integration
+363,Project Helios Analytics,Vodafone,2020-01-09,2024-05-03,Proposed,Latin America,Banking,Core banking overhaul
+364,Project Gemini Enhancement,Nestle,2023-10-16,2024-07-22,Completed,Latin America,Retail,Data center consolidation
+365,Project Gemini Upgrade,Emirates,2021-04-19,2023-09-18,Proposed,Europe,Automotive,Mobile app redevelopment
+366,Project Titan Analytics,Coca-Cola,2021-03-10,2023-03-15,On Track,Middle East,Technology,Upgrading legacy systems
+367,Project Atlas Integration,Wells Fargo,2021-09-03,2024-05-20,On Track,APAC,Automotive,Global ERP rollout
+368,Project Helios Expansion,Repsol,2022-09-22,2025-02-14,On Track,North America,Telecom,Analytics dashboards
+369,Project Helios Analytics,IBM,2021-09-06,2024-09-05,Completed,Europe,Insurance,Global ERP rollout
+370,Project Atlas Enhancement,Samsung,2023-10-09,2025-01-09,Completed,Middle East,Insurance,Analytics dashboards
+371,Project Orion Migration,Coca-Cola,2022-09-14,2022-09-21,Delayed,Middle East,Technology,E-commerce platform integration
+372,Project Titan Analytics,Coca-Cola,2022-06-21,2025-03-18,Cancelled,Middle East,Insurance,Mobile app redevelopment
+373,Project Helios Upgrade,Samsung,2021-04-20,2021-04-28,Delayed,Africa,Banking,Data center consolidation
+374,Project Phoenix Analytics,SAP,2020-10-17,2021-02-16,Completed,North America,Banking,E-commerce platform integration
+375,Project Orion Integration,Nestle,2020-07-02,2025-10-29,Completed,Africa,Banking,Cloud migration project
+376,Project Orion Analytics,HSBC,2022-08-05,2023-06-22,On Track,Latin America,Banking,Upgrading legacy systems
+377,Project Helios Analytics,American Express,2023-09-03,2024-05-19,Completed,Middle East,Banking,Analytics dashboards
+378,Project Nova Integration,British Telecom,2021-11-04,2025-08-31,On Track,Middle East,Energy,Analytics dashboards
+379,Project Vantage Integration,Visa,2020-05-28,2023-08-09,Cancelled,Middle East,Telecom,Analytics dashboards
+380,Project Gemini Enhancement,British Telecom,2022-03-14,2023-05-02,On Track,North America,Energy,Mobile app redevelopment
+381,Project Atlas Enhancement,JP Morgan Chase,2021-02-27,2024-02-05,Cancelled,Africa,Technology,Mobile app redevelopment
+382,Project Orion Analytics,Banco Santander,2021-06-30,2022-10-07,Proposed,APAC,Technology,Global ERP rollout
+383,Project Atlas Upgrade,HSBC,2023-10-12,2023-12-14,Delayed,North America,Healthcare,Mobile app redevelopment
+384,Project Vantage Migration,Microsoft,2021-06-10,2022-07-28,On Track,North America,Technology,Upgrading legacy systems
+385,Project Nova Analytics,JP Morgan Chase,2023-03-02,2024-11-24,Cancelled,Middle East,Technology,E-commerce platform integration
+386,Project Atlas Expansion,Nestle,2022-10-01,2023-04-30,Cancelled,North America,Banking,Upgrading legacy systems
+387,Project Orion Expansion,Walmart,2020-07-15,2021-05-20,Cancelled,Africa,Retail,Mobile app redevelopment
+388,Project Orion Enhancement,JP Morgan Chase,2020-02-19,2022-08-01,Cancelled,APAC,Healthcare,Data center consolidation
+389,Project Phoenix Analytics,Visa,2022-07-11,2024-03-07,Proposed,Europe,Healthcare,Mobile app redevelopment
+390,Project Atlas Analytics,British Telecom,2022-09-03,2023-04-11,Completed,Africa,Retail,Cloud migration project
+391,Project Vantage Analytics,Repsol,2020-04-10,2024-08-16,On Track,Latin America,Technology,Data center consolidation
+392,Project Nova Integration,Volkswagen,2021-03-09,2023-12-19,Proposed,North America,Energy,Core banking overhaul
+393,Project Vantage Migration,American Express,2023-06-28,2025-12-20,Proposed,Latin America,Healthcare,Mobile app redevelopment
+394,Project Gemini Upgrade,ExxonMobil,2020-12-09,2025-04-28,Cancelled,North America,Energy,Global ERP rollout
+395,Project Vantage Expansion,Apple,2023-06-29,2024-09-28,Completed,Europe,Insurance,Mobile app redevelopment
+396,Project Nova Analytics,Wells Fargo,2023-04-03,2024-06-02,Delayed,Europe,Insurance,Cloud migration project
+397,Project Gemini Migration,SAP,2022-11-09,2025-09-21,Completed,Europe,Banking,Global ERP rollout
+398,Project Nova Migration,Emirates,2023-01-27,2023-10-11,Cancelled,Latin America,Telecom,E-commerce platform integration
+399,Project Atlas Integration,Visa,2023-10-22,2025-09-12,Cancelled,Europe,Retail,E-commerce platform integration
+400,Project Titan Upgrade,Pfizer,2022-05-15,2023-01-03,On Track,North America,Retail,Data center consolidation
+401,Project Gemini Migration,IBM,2021-04-19,2023-01-21,Completed,APAC,Telecom,Analytics dashboards
+402,Project Nova Enhancement,Wells Fargo,2021-02-20,2024-12-05,On Track,Latin America,Energy,E-commerce platform integration
+403,Project Gemini Upgrade,JP Morgan Chase,2022-09-05,2025-12-08,Completed,Europe,Telecom,Cloud migration project
+404,Project Atlas Analytics,American Express,2022-04-18,2024-02-29,Cancelled,Latin America,Technology,Cloud migration project
+405,Project Phoenix Migration,HSBC,2021-04-19,2025-07-13,Delayed,APAC,Banking,Upgrading legacy systems
+406,Project Vantage Enhancement,JP Morgan Chase,2020-11-06,2024-11-11,Delayed,APAC,Energy,Cloud migration project
+407,Project Gemini Migration,Sony,2022-09-30,2023-05-23,On Track,Africa,Telecom,Upgrading legacy systems
+408,Project Helios Expansion,Novartis,2021-12-21,2024-01-23,Proposed,APAC,Retail,E-commerce platform integration
+409,Project Gemini Enhancement,Emirates,2023-11-07,2024-08-01,Cancelled,Middle East,Retail,Core banking overhaul
+410,Project Atlas Enhancement,ExxonMobil,2023-06-11,2025-07-26,Cancelled,Europe,Healthcare,E-commerce platform integration
+411,Project Gemini Integration,Amazon,2023-07-25,2023-11-09,Completed,Latin America,Telecom,Global ERP rollout
+412,Project Orion Enhancement,Walmart,2022-11-08,2024-07-28,Delayed,Latin America,Banking,Core banking overhaul
+413,Project Vantage Analytics,American Express,2023-10-01,2024-12-30,On Track,North America,Insurance,Data center consolidation
+414,Project Orion Integration,HSBC,2020-02-09,2025-09-02,Proposed,Europe,Insurance,Mobile app redevelopment
+415,Project Titan Upgrade,Pfizer,2023-07-11,2025-07-08,Cancelled,Latin America,Technology,Mobile app redevelopment
+416,Project Gemini Integration,Sony,2020-08-30,2024-10-11,Delayed,Africa,Banking,Upgrading legacy systems
+417,Project Vantage Migration,Ford,2022-09-03,2023-05-22,On Track,Latin America,Technology,E-commerce platform integration
+418,Project Atlas Analytics,Repsol,2022-03-09,2024-10-14,Completed,North America,Automotive,Cloud migration project
+419,Project Gemini Analytics,Repsol,2022-02-01,2023-08-21,Proposed,Middle East,Insurance,Global ERP rollout
+420,Project Atlas Expansion,Deutsche Telekom,2020-11-15,2025-01-31,Cancelled,Middle East,Healthcare,Global ERP rollout
+421,Project Gemini Enhancement,Novartis,2021-05-06,2024-11-20,Proposed,Middle East,Banking,Analytics dashboards
+422,Project Helios Integration,ExxonMobil,2020-10-10,2025-11-16,On Track,Middle East,Retail,Core banking overhaul
+423,Project Vantage Integration,American Express,2021-10-17,2025-10-16,Cancelled,APAC,Energy,Core banking overhaul
+424,Project Phoenix Upgrade,HSBC,2020-05-06,2022-10-03,Delayed,Africa,Automotive,Global ERP rollout
+425,Project Helios Analytics,Ford,2021-07-22,2023-06-12,Cancelled,APAC,Telecom,Global ERP rollout
+426,Project Helios Expansion,AT&T,2021-05-15,2023-09-21,Completed,APAC,Insurance,Cloud migration project
+427,Project Phoenix Analytics,Pfizer,2020-11-07,2022-07-07,Delayed,Europe,Automotive,E-commerce platform integration
+428,Project Atlas Analytics,Emirates,2022-10-05,2023-02-06,Cancelled,Latin America,Telecom,E-commerce platform integration
+429,Project Helios Migration,Amazon,2020-03-16,2020-10-03,On Track,Africa,Automotive,Analytics dashboards
+430,Project Orion Analytics,Vodafone,2023-02-10,2024-09-05,Completed,Middle East,Energy,Global ERP rollout
+431,Project Orion Expansion,Apple,2020-12-11,2022-12-07,On Track,Europe,Banking,Cloud migration project
+432,Project Atlas Analytics,Sony,2022-06-09,2024-05-16,Proposed,North America,Energy,Global ERP rollout
+433,Project Phoenix Upgrade,Apple,2020-01-03,2022-12-06,On Track,APAC,Energy,Cloud migration project
+434,Project Nova Integration,HSBC,2023-02-13,2025-05-25,Proposed,North America,Energy,Data center consolidation
+435,Project Orion Expansion,American Express,2021-04-29,2022-05-13,On Track,Latin America,Technology,Analytics dashboards
+436,Project Vantage Integration,Pfizer,2021-03-29,2022-09-11,On Track,North America,Energy,Analytics dashboards
+437,Project Orion Expansion,Walmart,2021-05-09,2024-11-16,Completed,Latin America,Energy,E-commerce platform integration
+438,Project Atlas Expansion,ExxonMobil,2021-04-04,2024-07-02,Delayed,North America,Telecom,Analytics dashboards
+439,Project Orion Enhancement,ExxonMobil,2021-03-23,2022-05-03,Completed,Europe,Retail,Core banking overhaul
+440,Project Nova Enhancement,Ford,2021-01-31,2022-09-14,Completed,Latin America,Healthcare,Mobile app redevelopment
+441,Project Vantage Enhancement,Amazon,2023-07-09,2025-12-21,Completed,APAC,Insurance,Mobile app redevelopment
+442,Project Atlas Migration,Walmart,2021-03-22,2024-03-29,On Track,Middle East,Automotive,Cloud migration project
+443,Project Vantage Analytics,Walmart,2021-01-24,2023-02-04,Delayed,North America,Healthcare,Global ERP rollout
+444,Project Orion Expansion,IBM,2022-01-07,2023-08-07,Cancelled,Africa,Energy,Cloud migration project
+445,Project Atlas Integration,Amazon,2022-02-10,2025-02-06,Completed,Middle East,Technology,Cloud migration project
+446,Project Vantage Expansion,Nestle,2021-04-13,2021-07-08,Completed,Africa,Healthcare,E-commerce platform integration
+447,Project Orion Integration,Emirates,2020-06-29,2022-04-10,Proposed,APAC,Telecom,Mobile app redevelopment
+448,Project Orion Analytics,Pfizer,2022-02-28,2024-10-30,Cancelled,Europe,Energy,Mobile app redevelopment
+449,Project Atlas Expansion,American Express,2020-04-28,2025-10-27,Completed,Europe,Banking,Cloud migration project
+450,Project Vantage Integration,ExxonMobil,2020-06-16,2025-12-12,Proposed,North America,Retail,Mobile app redevelopment
+451,Project Orion Integration,Wells Fargo,2023-07-31,2025-06-27,On Track,APAC,Technology,Core banking overhaul
+452,Project Atlas Analytics,American Express,2023-01-22,2025-02-02,Proposed,APAC,Retail,Core banking overhaul
+453,Project Atlas Expansion,SAP,2022-01-24,2023-08-08,Delayed,Africa,Banking,Data center consolidation
+454,Project Gemini Analytics,Coca-Cola,2021-10-31,2024-12-06,Proposed,Europe,Healthcare,Core banking overhaul
+455,Project Atlas Enhancement,Novartis,2023-05-21,2025-07-11,On Track,North America,Banking,Core banking overhaul
+456,Project Nova Expansion,Apple,2021-01-26,2024-02-09,On Track,Africa,Insurance,Global ERP rollout
+457,Project Helios Migration,HSBC,2023-07-18,2024-09-24,Delayed,North America,Banking,Upgrading legacy systems
+458,Project Nova Enhancement,Novartis,2022-05-01,2023-06-04,Cancelled,North America,Healthcare,Global ERP rollout
+459,Project Helios Analytics,Repsol,2022-10-14,2023-08-11,Proposed,North America,Automotive,Core banking overhaul
+460,Project Helios Upgrade,IBM,2020-07-25,2024-09-23,Cancelled,Latin America,Automotive,Upgrading legacy systems
+461,Project Helios Expansion,Emirates,2020-05-24,2020-08-14,Completed,Europe,Retail,Mobile app redevelopment
+462,Project Orion Upgrade,Nestle,2023-08-27,2023-09-12,Cancelled,Europe,Healthcare,Analytics dashboards
+463,Project Titan Analytics,Deutsche Telekom,2020-07-27,2023-11-20,Cancelled,Europe,Automotive,Upgrading legacy systems
+464,Project Phoenix Enhancement,American Express,2021-02-18,2022-08-17,Proposed,Middle East,Insurance,Mobile app redevelopment
+465,Project Helios Upgrade,Visa,2020-03-12,2020-05-12,Completed,Middle East,Telecom,Data center consolidation
+466,Project Orion Expansion,Coca-Cola,2020-01-14,2021-05-11,Proposed,Europe,Telecom,Global ERP rollout
+467,Project Vantage Migration,Wells Fargo,2022-08-06,2022-09-11,Proposed,North America,Retail,Cloud migration project
+468,Project Nova Migration,Ford,2022-03-06,2023-12-20,Delayed,Europe,Automotive,E-commerce platform integration
+469,Project Titan Enhancement,Emirates,2021-10-05,2022-08-17,Delayed,Middle East,Retail,Mobile app redevelopment
+470,Project Orion Expansion,Novartis,2022-05-03,2024-03-03,Proposed,APAC,Energy,Core banking overhaul
+471,Project Gemini Analytics,Volkswagen,2023-05-09,2024-05-18,Delayed,Latin America,Automotive,Analytics dashboards
+472,Project Nova Upgrade,SAP,2022-11-20,2025-10-04,Proposed,Latin America,Telecom,E-commerce platform integration
+473,Project Nova Analytics,Deutsche Telekom,2020-09-09,2025-11-07,Cancelled,Europe,Retail,Cloud migration project
+474,Project Helios Analytics,Apple,2023-07-28,2024-09-06,Cancelled,Africa,Technology,Analytics dashboards
+475,Project Gemini Migration,Coca-Cola,2021-01-13,2021-08-01,Completed,Africa,Energy,Upgrading legacy systems
+476,Project Helios Expansion,Amazon,2023-03-24,2024-04-17,Proposed,North America,Automotive,Cloud migration project
+477,Project Phoenix Analytics,Apple,2023-05-09,2023-07-19,Completed,Europe,Energy,Global ERP rollout
+478,Project Nova Integration,Novartis,2023-05-31,2023-11-16,Completed,Latin America,Technology,Global ERP rollout
+479,Project Nova Upgrade,Microsoft,2023-11-11,2025-04-15,On Track,Africa,Telecom,Global ERP rollout
+480,Project Gemini Integration,Emirates,2023-07-26,2024-06-22,Delayed,Europe,Automotive,Core banking overhaul
+481,Project Helios Enhancement,Visa,2022-10-26,2025-08-05,Cancelled,Latin America,Automotive,Cloud migration project
+482,Project Gemini Integration,Coca-Cola,2022-06-27,2025-01-15,Proposed,Latin America,Automotive,Core banking overhaul
+483,Project Gemini Upgrade,Pfizer,2021-03-27,2023-08-28,Cancelled,Europe,Energy,E-commerce platform integration
+484,Project Atlas Integration,Emirates,2022-03-24,2025-03-11,On Track,Latin America,Automotive,E-commerce platform integration
+485,Project Helios Migration,HSBC,2022-09-21,2025-12-29,Completed,Middle East,Technology,Mobile app redevelopment
+486,Project Atlas Enhancement,Volkswagen,2020-04-21,2020-10-15,On Track,Latin America,Telecom,Global ERP rollout
+487,Project Vantage Migration,ExxonMobil,2021-09-14,2024-12-12,On Track,Africa,Energy,E-commerce platform integration
+488,Project Vantage Integration,Amazon,2022-05-14,2025-03-03,Proposed,Europe,Technology,Data center consolidation
+489,Project Helios Integration,HSBC,2022-08-14,2024-04-14,Completed,Middle East,Healthcare,Core banking overhaul
+490,Project Atlas Upgrade,Banco Santander,2021-10-04,2024-10-28,Completed,Europe,Energy,Core banking overhaul
+491,Project Phoenix Enhancement,Volkswagen,2022-05-24,2025-12-21,Proposed,North America,Healthcare,Core banking overhaul
+492,Project Vantage Analytics,Sony,2021-02-02,2025-12-05,Proposed,Europe,Insurance,Analytics dashboards
+493,Project Phoenix Integration,Nestle,2022-05-17,2024-01-26,Delayed,Middle East,Energy,Cloud migration project
+494,Project Titan Enhancement,Samsung,2023-08-16,2024-03-10,Delayed,APAC,Healthcare,Mobile app redevelopment
+495,Project Nova Migration,IBM,2021-09-19,2025-06-21,Cancelled,Latin America,Retail,Analytics dashboards
+496,Project Phoenix Integration,Volkswagen,2020-02-22,2023-02-18,Cancelled,North America,Retail,Global ERP rollout
+497,Project Titan Upgrade,Amazon,2021-12-02,2025-08-17,Completed,Middle East,Telecom,Core banking overhaul
+498,Project Vantage Migration,Volkswagen,2021-07-19,2022-09-18,On Track,Middle East,Telecom,Upgrading legacy systems
+499,Project Helios Integration,Apple,2020-02-07,2024-12-01,Completed,Africa,Retail,Mobile app redevelopment
+500,Project Atlas Enhancement,SAP,2020-05-23,2024-05-25,Completed,Latin America,Energy,Upgrading legacy systems
+501,Project Titan Migration,Novartis,2023-11-01,2025-05-27,Cancelled,APAC,Banking,Upgrading legacy systems
+502,Project Vantage Enhancement,Visa,2021-01-16,2024-05-27,On Track,Europe,Healthcare,Mobile app redevelopment
+503,Project Phoenix Upgrade,Coca-Cola,2022-03-23,2022-04-10,On Track,Latin America,Healthcare,E-commerce platform integration
+504,Project Nova Upgrade,Volkswagen,2021-01-23,2025-04-11,Proposed,Middle East,Banking,Core banking overhaul
+505,Project Orion Upgrade,Visa,2023-01-23,2023-04-19,On Track,North America,Healthcare,Upgrading legacy systems
+506,Project Orion Integration,Visa,2023-11-15,2024-10-31,On Track,North America,Energy,Global ERP rollout
+507,Project Phoenix Enhancement,Apple,2021-05-16,2021-09-30,On Track,North America,Telecom,Upgrading legacy systems
+508,Project Vantage Migration,HSBC,2021-12-10,2025-06-04,Delayed,North America,Energy,Data center consolidation
+509,Project Helios Analytics,Samsung,2022-09-02,2025-03-01,Completed,Africa,Insurance,Mobile app redevelopment
+510,Project Vantage Expansion,Volkswagen,2022-08-14,2023-11-30,Proposed,North America,Technology,Upgrading legacy systems
+511,Project Titan Migration,Apple,2022-04-10,2022-08-28,Delayed,Latin America,Automotive,E-commerce platform integration
+512,Project Nova Enhancement,Deutsche Telekom,2021-04-17,2021-10-24,Cancelled,APAC,Retail,Upgrading legacy systems
+513,Project Gemini Analytics,HSBC,2021-12-13,2023-09-07,On Track,Europe,Retail,Analytics dashboards
+514,Project Vantage Migration,Amazon,2022-04-07,2023-02-14,Completed,Middle East,Healthcare,Analytics dashboards
+515,Project Helios Analytics,Amazon,2023-06-14,2024-08-05,Cancelled,Africa,Technology,E-commerce platform integration
+516,Project Atlas Enhancement,JP Morgan Chase,2020-10-11,2022-03-20,Delayed,Africa,Energy,Upgrading legacy systems
+517,Project Nova Analytics,ExxonMobil,2022-08-24,2024-07-17,Proposed,Latin America,Banking,E-commerce platform integration
+518,Project Phoenix Analytics,Coca-Cola,2022-08-02,2023-12-20,Delayed,APAC,Healthcare,Global ERP rollout
+519,Project Atlas Enhancement,Wells Fargo,2020-07-19,2022-03-18,Cancelled,Latin America,Technology,E-commerce platform integration
+520,Project Orion Migration,Repsol,2020-06-13,2025-07-23,Proposed,APAC,Energy,Mobile app redevelopment
+521,Project Gemini Expansion,Volkswagen,2020-09-23,2023-10-18,On Track,Latin America,Banking,Upgrading legacy systems
+522,Project Gemini Integration,Microsoft,2020-06-24,2024-02-12,Delayed,North America,Energy,Cloud migration project
+523,Project Vantage Upgrade,Ford,2020-03-04,2022-04-23,Delayed,Latin America,Retail,Data center consolidation
+524,Project Nova Expansion,American Express,2021-01-31,2024-03-20,Proposed,Europe,Insurance,Upgrading legacy systems
+525,Project Titan Expansion,Ford,2021-08-08,2022-08-13,Delayed,Europe,Technology,E-commerce platform integration
+526,Project Gemini Integration,JP Morgan Chase,2022-01-22,2025-04-19,Cancelled,APAC,Insurance,Upgrading legacy systems
+527,Project Nova Integration,Novartis,2020-02-10,2022-01-25,On Track,APAC,Automotive,Core banking overhaul
+528,Project Gemini Migration,Coca-Cola,2021-09-06,2025-09-19,Proposed,Middle East,Energy,Cloud migration project
+529,Project Atlas Expansion,Nestle,2020-07-01,2025-10-10,On Track,Middle East,Energy,Global ERP rollout
+530,Project Vantage Integration,SAP,2022-04-20,2023-10-27,Cancelled,Europe,Banking,Upgrading legacy systems
+531,Project Nova Integration,IBM,2022-08-07,2025-10-23,Delayed,Middle East,Retail,Cloud migration project
+532,Project Orion Enhancement,Microsoft,2023-06-05,2024-12-11,Proposed,APAC,Energy,Upgrading legacy systems
+533,Project Titan Upgrade,Ford,2020-05-23,2023-12-26,Delayed,Africa,Healthcare,Data center consolidation
+534,Project Atlas Analytics,Apple,2021-12-28,2025-03-16,Proposed,North America,Retail,E-commerce platform integration
+535,Project Titan Expansion,HSBC,2021-02-08,2022-12-24,Completed,Africa,Technology,Upgrading legacy systems
+536,Project Phoenix Enhancement,Wells Fargo,2022-08-10,2024-01-29,Delayed,Europe,Healthcare,Mobile app redevelopment
+537,Project Vantage Enhancement,JP Morgan Chase,2021-05-31,2024-06-21,Delayed,Europe,Banking,Upgrading legacy systems
+538,Project Vantage Expansion,HSBC,2021-10-27,2024-05-11,Delayed,Latin America,Energy,Upgrading legacy systems
+539,Project Nova Integration,Ford,2023-01-26,2023-01-26,Delayed,Middle East,Insurance,Cloud migration project
+540,Project Helios Integration,Visa,2021-11-30,2023-05-07,Proposed,Latin America,Automotive,Analytics dashboards
+541,Project Phoenix Analytics,Microsoft,2021-11-01,2023-12-01,Cancelled,Middle East,Insurance,E-commerce platform integration
+542,Project Vantage Integration,IBM,2021-05-23,2023-11-26,Delayed,Africa,Banking,Mobile app redevelopment
+543,Project Orion Enhancement,Visa,2020-01-21,2022-03-12,Proposed,Middle East,Retail,Mobile app redevelopment
+544,Project Titan Enhancement,Wells Fargo,2021-11-01,2022-02-24,Proposed,Middle East,Telecom,E-commerce platform integration
+545,Project Phoenix Expansion,Sony,2021-02-08,2024-09-06,Cancelled,Middle East,Insurance,Global ERP rollout
+546,Project Phoenix Upgrade,Vodafone,2021-03-21,2022-07-04,On Track,Europe,Telecom,Global ERP rollout
+547,Project Vantage Upgrade,IBM,2023-05-06,2024-10-17,Completed,Europe,Banking,Analytics dashboards
+548,Project Gemini Enhancement,Deutsche Telekom,2022-04-21,2023-10-22,Delayed,Africa,Telecom,Cloud migration project
+549,Project Titan Migration,Volkswagen,2022-05-23,2022-06-20,Completed,North America,Technology,Global ERP rollout
+550,Project Nova Analytics,Wells Fargo,2021-02-15,2024-02-15,Delayed,Middle East,Banking,Analytics dashboards
+551,Project Orion Analytics,Visa,2023-11-07,2025-11-23,On Track,Africa,Banking,E-commerce platform integration
+552,Project Vantage Analytics,Novartis,2021-06-30,2025-08-24,Cancelled,Europe,Telecom,Mobile app redevelopment
+553,Project Gemini Upgrade,ExxonMobil,2023-04-05,2023-08-12,Proposed,Latin America,Banking,Cloud migration project
+554,Project Orion Migration,Volkswagen,2023-10-26,2024-07-04,On Track,APAC,Healthcare,Global ERP rollout
+555,Project Vantage Enhancement,JP Morgan Chase,2020-05-31,2021-09-12,Delayed,Latin America,Banking,Data center consolidation
+556,Project Helios Migration,IBM,2020-06-11,2020-11-06,Proposed,Middle East,Automotive,Upgrading legacy systems
+557,Project Vantage Analytics,Deutsche Telekom,2023-04-08,2024-10-03,Cancelled,APAC,Automotive,E-commerce platform integration
+558,Project Titan Migration,IBM,2021-07-10,2024-11-19,Cancelled,Africa,Retail,Upgrading legacy systems
+559,Project Gemini Integration,Pfizer,2020-09-16,2021-07-18,Cancelled,Latin America,Technology,Global ERP rollout
+560,Project Gemini Integration,Samsung,2022-05-09,2022-08-24,Cancelled,Latin America,Technology,Core banking overhaul
+561,Project Vantage Migration,Repsol,2022-02-20,2022-07-18,Completed,Africa,Banking,Global ERP rollout
+562,Project Titan Integration,Visa,2022-06-06,2022-07-23,On Track,Europe,Automotive,Data center consolidation
+563,Project Nova Analytics,British Telecom,2021-04-19,2023-04-07,On Track,North America,Banking,Data center consolidation
+564,Project Helios Enhancement,HSBC,2021-04-21,2024-06-15,Delayed,Africa,Energy,E-commerce platform integration
+565,Project Orion Migration,American Express,2022-09-03,2024-04-04,Proposed,Latin America,Automotive,Cloud migration project
+566,Project Titan Analytics,Emirates,2020-02-29,2023-10-27,Completed,Latin America,Energy,E-commerce platform integration
+567,Project Titan Expansion,ExxonMobil,2023-04-21,2024-06-03,Proposed,Europe,Automotive,Mobile app redevelopment
+568,Project Orion Migration,Wells Fargo,2023-07-27,2024-08-02,On Track,North America,Automotive,Global ERP rollout
+569,Project Gemini Integration,Apple,2023-05-02,2025-11-23,Completed,Europe,Banking,Data center consolidation
+570,Project Helios Integration,Microsoft,2020-07-01,2025-06-07,On Track,Europe,Energy,Global ERP rollout
+571,Project Vantage Upgrade,Emirates,2021-12-25,2025-03-22,Cancelled,APAC,Automotive,Upgrading legacy systems
+572,Project Orion Migration,American Express,2022-06-02,2025-12-25,Proposed,North America,Banking,Cloud migration project
+573,Project Atlas Enhancement,Nestle,2022-11-28,2024-04-03,Cancelled,APAC,Technology,Upgrading legacy systems
+574,Project Phoenix Enhancement,ExxonMobil,2020-07-17,2025-06-19,Completed,Middle East,Energy,Analytics dashboards
+575,Project Gemini Analytics,IBM,2023-05-30,2025-10-02,Cancelled,APAC,Technology,Cloud migration project
+576,Project Atlas Analytics,Deutsche Telekom,2023-06-11,2025-03-02,Completed,Africa,Energy,Mobile app redevelopment
+577,Project Helios Expansion,IBM,2021-01-29,2022-02-10,Completed,Latin America,Telecom,Data center consolidation
+578,Project Phoenix Upgrade,British Telecom,2022-03-14,2023-09-26,Proposed,Europe,Healthcare,Data center consolidation
+579,Project Phoenix Upgrade,JP Morgan Chase,2020-01-20,2022-05-03,On Track,North America,Insurance,Upgrading legacy systems
+580,Project Orion Integration,Apple,2022-07-09,2023-03-01,Completed,APAC,Telecom,Mobile app redevelopment
+581,Project Gemini Expansion,Deutsche Telekom,2020-09-25,2025-08-27,Completed,Africa,Retail,Data center consolidation
+582,Project Titan Integration,Nestle,2021-02-17,2021-03-26,Proposed,Middle East,Telecom,Analytics dashboards
+583,Project Orion Expansion,American Express,2022-08-09,2023-11-27,Delayed,Latin America,Energy,Mobile app redevelopment
+584,Project Phoenix Analytics,Banco Santander,2021-03-04,2023-01-04,Delayed,Middle East,Energy,Upgrading legacy systems
+585,Project Nova Upgrade,Volkswagen,2023-08-19,2024-12-08,On Track,Middle East,Insurance,Mobile app redevelopment
+586,Project Nova Integration,Amazon,2022-08-16,2025-03-06,On Track,Europe,Energy,Data center consolidation
+587,Project Vantage Enhancement,Wells Fargo,2021-05-09,2023-07-03,Delayed,Europe,Healthcare,E-commerce platform integration
+588,Project Orion Integration,HSBC,2022-09-29,2024-08-08,Delayed,Europe,Automotive,Upgrading legacy systems
+589,Project Phoenix Migration,Deutsche Telekom,2022-07-24,2024-07-17,Proposed,Latin America,Banking,Analytics dashboards
+590,Project Vantage Analytics,Wells Fargo,2022-02-03,2025-09-25,Cancelled,North America,Banking,Core banking overhaul
+591,Project Phoenix Integration,Amazon,2022-11-24,2023-06-09,Cancelled,Latin America,Healthcare,Analytics dashboards
+592,Project Gemini Expansion,Nestle,2023-05-18,2024-08-14,Completed,Latin America,Retail,Mobile app redevelopment
+593,Project Helios Migration,Amazon,2020-01-01,2021-03-22,Proposed,Latin America,Banking,Data center consolidation
+594,Project Orion Integration,Deutsche Telekom,2023-04-13,2025-02-16,On Track,Middle East,Retail,Cloud migration project
+595,Project Vantage Upgrade,Amazon,2020-11-23,2021-12-17,On Track,Middle East,Automotive,Analytics dashboards
+596,Project Titan Upgrade,JP Morgan Chase,2020-03-25,2024-06-19,Cancelled,Europe,Retail,Mobile app redevelopment
+597,Project Nova Enhancement,Repsol,2022-03-29,2024-04-19,On Track,Latin America,Energy,Upgrading legacy systems
+598,Project Helios Enhancement,Coca-Cola,2023-06-01,2025-02-01,Cancelled,Latin America,Banking,Core banking overhaul
+599,Project Gemini Analytics,American Express,2020-03-17,2020-08-13,Proposed,APAC,Healthcare,Upgrading legacy systems
+600,Project Titan Upgrade,American Express,2022-10-08,2023-11-08,Cancelled,Europe,Telecom,Core banking overhaul
+601,Project Helios Upgrade,IBM,2021-01-05,2023-10-12,Completed,APAC,Automotive,Data center consolidation
+602,Project Helios Integration,IBM,2020-09-16,2024-02-20,Completed,North America,Technology,E-commerce platform integration
+603,Project Atlas Expansion,Sony,2023-11-10,2025-10-04,Completed,Middle East,Insurance,E-commerce platform integration
+604,Project Helios Integration,Banco Santander,2022-01-26,2023-10-30,Delayed,Middle East,Insurance,Mobile app redevelopment
+605,Project Phoenix Upgrade,Emirates,2021-09-07,2023-06-07,Delayed,APAC,Retail,Analytics dashboards
+606,Project Helios Upgrade,American Express,2023-08-10,2024-09-19,On Track,Middle East,Healthcare,Analytics dashboards
+607,Project Orion Upgrade,Microsoft,2021-03-28,2025-01-12,Delayed,APAC,Banking,Core banking overhaul
+608,Project Orion Analytics,American Express,2022-07-27,2025-02-07,Cancelled,Middle East,Technology,Upgrading legacy systems
+609,Project Orion Migration,Coca-Cola,2023-10-10,2025-03-02,Completed,Latin America,Healthcare,Global ERP rollout
+610,Project Nova Expansion,Amazon,2023-02-15,2025-10-15,Completed,Latin America,Retail,Mobile app redevelopment
+611,Project Titan Expansion,SAP,2023-05-06,2023-10-11,Cancelled,APAC,Automotive,Upgrading legacy systems
+612,Project Orion Analytics,AT&T,2021-05-08,2021-09-17,Cancelled,Middle East,Telecom,Data center consolidation
+613,Project Atlas Enhancement,Sony,2022-01-08,2023-10-31,Proposed,APAC,Technology,E-commerce platform integration
+614,Project Phoenix Integration,Visa,2023-11-23,2024-03-26,Cancelled,Middle East,Energy,Core banking overhaul
+615,Project Nova Analytics,SAP,2022-12-30,2024-10-28,Proposed,APAC,Healthcare,Analytics dashboards
+616,Project Phoenix Integration,ExxonMobil,2023-06-25,2023-10-15,Completed,Europe,Healthcare,Upgrading legacy systems
+617,Project Gemini Migration,Volkswagen,2023-05-21,2024-01-24,Proposed,Latin America,Automotive,Global ERP rollout
+618,Project Nova Upgrade,Coca-Cola,2022-04-18,2025-08-26,Completed,North America,Telecom,Analytics dashboards
+619,Project Helios Upgrade,Repsol,2023-04-03,2024-10-05,On Track,North America,Technology,Global ERP rollout
+620,Project Atlas Enhancement,Banco Santander,2023-05-02,2024-04-01,Completed,Latin America,Banking,Global ERP rollout
+621,Project Phoenix Migration,Ford,2022-10-14,2025-08-04,Cancelled,Africa,Automotive,E-commerce platform integration
+622,Project Gemini Migration,SAP,2021-05-29,2022-04-17,Delayed,Europe,Energy,Upgrading legacy systems
+623,Project Vantage Enhancement,Sony,2022-08-29,2024-11-28,Proposed,North America,Energy,E-commerce platform integration
+624,Project Gemini Migration,ExxonMobil,2022-10-23,2025-03-06,Proposed,Latin America,Retail,Core banking overhaul
+625,Project Phoenix Analytics,Ford,2022-01-21,2023-01-03,Delayed,Africa,Telecom,Analytics dashboards
+626,Project Phoenix Integration,IBM,2020-08-09,2020-09-24,Proposed,Middle East,Technology,Data center consolidation
+627,Project Nova Expansion,AT&T,2023-03-17,2025-11-04,Completed,Latin America,Insurance,Global ERP rollout
+628,Project Vantage Upgrade,Apple,2023-12-10,2024-09-17,Cancelled,Europe,Insurance,Data center consolidation
+629,Project Vantage Migration,AT&T,2021-11-28,2025-09-18,Delayed,Middle East,Retail,Data center consolidation
+630,Project Gemini Analytics,Samsung,2020-01-18,2021-08-30,Delayed,APAC,Banking,Data center consolidation
+631,Project Helios Integration,IBM,2021-09-13,2025-10-23,Cancelled,Africa,Telecom,Cloud migration project
+632,Project Phoenix Enhancement,Visa,2022-02-19,2022-03-17,Delayed,Latin America,Technology,Core banking overhaul
+633,Project Orion Enhancement,Walmart,2022-04-27,2025-04-20,Proposed,North America,Telecom,E-commerce platform integration
+634,Project Atlas Migration,Sony,2021-02-09,2025-10-15,On Track,APAC,Automotive,Analytics dashboards
+635,Project Orion Analytics,AT&T,2022-05-14,2023-05-16,Delayed,Europe,Automotive,Upgrading legacy systems
+636,Project Titan Enhancement,Emirates,2023-05-27,2023-07-04,On Track,Africa,Healthcare,Upgrading legacy systems
+637,Project Vantage Integration,British Telecom,2021-05-14,2021-08-23,Completed,Latin America,Energy,Upgrading legacy systems
+638,Project Vantage Enhancement,Sony,2023-04-03,2024-11-19,Cancelled,Latin America,Retail,Analytics dashboards
+639,Project Phoenix Migration,Walmart,2021-03-16,2021-05-27,Proposed,Middle East,Healthcare,Mobile app redevelopment
+640,Project Phoenix Migration,Amazon,2021-01-10,2021-06-05,Completed,Middle East,Energy,Data center consolidation
+641,Project Atlas Expansion,Amazon,2023-07-24,2024-09-19,Completed,Middle East,Telecom,Core banking overhaul
+642,Project Helios Migration,British Telecom,2020-08-30,2025-02-02,Delayed,Latin America,Energy,Core banking overhaul
+643,Project Orion Enhancement,Pfizer,2023-07-26,2025-05-25,Delayed,Latin America,Technology,Analytics dashboards
+644,Project Helios Integration,JP Morgan Chase,2020-12-24,2024-09-30,On Track,Africa,Banking,Analytics dashboards
+645,Project Helios Upgrade,Volkswagen,2021-02-15,2024-07-13,On Track,North America,Technology,E-commerce platform integration
+646,Project Orion Expansion,ExxonMobil,2021-09-13,2023-10-08,Completed,Latin America,Retail,Global ERP rollout
+647,Project Titan Enhancement,Banco Santander,2020-11-22,2025-03-14,Cancelled,APAC,Automotive,Analytics dashboards
+648,Project Nova Upgrade,Sony,2020-08-18,2022-09-11,On Track,Latin America,Banking,Global ERP rollout
+649,Project Phoenix Enhancement,IBM,2023-08-22,2023-10-27,Cancelled,Middle East,Retail,Upgrading legacy systems
+650,Project Vantage Analytics,Wells Fargo,2022-03-30,2023-11-15,Cancelled,Africa,Energy,Global ERP rollout
+651,Project Nova Expansion,Sony,2021-11-17,2025-10-03,On Track,Africa,Automotive,Upgrading legacy systems
+652,Project Titan Migration,JP Morgan Chase,2021-03-15,2023-07-08,Completed,APAC,Telecom,E-commerce platform integration
+653,Project Titan Expansion,Coca-Cola,2020-03-04,2024-05-08,On Track,Europe,Energy,E-commerce platform integration
+654,Project Orion Upgrade,SAP,2023-04-27,2025-12-09,Completed,Latin America,Energy,E-commerce platform integration
+655,Project Gemini Enhancement,SAP,2023-01-11,2024-02-16,On Track,Middle East,Banking,Cloud migration project
+656,Project Titan Migration,JP Morgan Chase,2021-05-10,2021-07-08,Delayed,Latin America,Banking,Mobile app redevelopment
+657,Project Gemini Integration,Amazon,2022-05-09,2025-03-18,Delayed,Europe,Technology,Global ERP rollout
+658,Project Orion Expansion,Apple,2021-02-23,2024-05-30,Cancelled,Middle East,Banking,Upgrading legacy systems
+659,Project Vantage Integration,Microsoft,2020-03-27,2024-03-18,Proposed,North America,Banking,Analytics dashboards
+660,Project Vantage Analytics,Amazon,2021-04-04,2025-08-21,On Track,Latin America,Healthcare,E-commerce platform integration
+661,Project Phoenix Expansion,Vodafone,2023-07-02,2024-06-13,Cancelled,Europe,Retail,Core banking overhaul
+662,Project Orion Enhancement,Deutsche Telekom,2023-08-26,2025-08-07,Cancelled,APAC,Telecom,Analytics dashboards
+663,Project Nova Analytics,Microsoft,2022-11-01,2024-07-27,Proposed,Europe,Energy,E-commerce platform integration
+664,Project Phoenix Enhancement,Ford,2023-01-02,2023-12-02,Cancelled,Latin America,Retail,E-commerce platform integration
+665,Project Gemini Integration,IBM,2021-12-21,2024-01-28,Completed,APAC,Energy,Upgrading legacy systems
+666,Project Titan Enhancement,American Express,2022-11-12,2023-06-13,On Track,APAC,Banking,Cloud migration project
+667,Project Atlas Enhancement,Sony,2021-05-15,2022-07-31,Cancelled,Europe,Automotive,Analytics dashboards
+668,Project Nova Upgrade,AT&T,2023-11-11,2024-11-16,Cancelled,North America,Technology,Global ERP rollout
+669,Project Atlas Analytics,Volkswagen,2022-04-09,2024-12-25,Delayed,Europe,Telecom,Analytics dashboards
+670,Project Atlas Enhancement,AT&T,2022-12-02,2023-05-30,On Track,Africa,Automotive,Analytics dashboards
+671,Project Atlas Integration,AT&T,2023-12-20,2024-05-24,Delayed,APAC,Insurance,Core banking overhaul
+672,Project Nova Migration,Sony,2022-02-12,2023-08-17,Completed,APAC,Automotive,Global ERP rollout
+673,Project Atlas Migration,JP Morgan Chase,2020-06-02,2023-06-22,Cancelled,APAC,Healthcare,E-commerce platform integration
+674,Project Phoenix Upgrade,Amazon,2021-04-15,2023-03-18,Delayed,Europe,Energy,Mobile app redevelopment
+675,Project Atlas Analytics,JP Morgan Chase,2021-01-10,2022-03-27,Cancelled,North America,Telecom,Mobile app redevelopment
+676,Project Atlas Integration,Pfizer,2022-03-19,2022-10-15,Proposed,Europe,Energy,Mobile app redevelopment
+677,Project Titan Upgrade,Visa,2023-03-20,2024-10-31,Completed,Africa,Energy,Upgrading legacy systems
+678,Project Orion Expansion,Visa,2021-05-12,2023-06-29,On Track,Africa,Automotive,Cloud migration project
+679,Project Vantage Analytics,American Express,2022-07-23,2022-12-10,On Track,Middle East,Banking,Global ERP rollout
+680,Project Atlas Enhancement,Novartis,2021-10-28,2025-05-28,On Track,North America,Energy,Upgrading legacy systems
+681,Project Nova Integration,Wells Fargo,2022-08-04,2025-11-14,On Track,Middle East,Energy,Upgrading legacy systems
+682,Project Helios Expansion,British Telecom,2023-04-23,2025-05-30,Completed,North America,Energy,Mobile app redevelopment
+683,Project Nova Migration,Ford,2021-02-01,2021-07-19,Completed,North America,Telecom,Upgrading legacy systems
+684,Project Titan Analytics,Nestle,2023-03-04,2025-11-25,Cancelled,Africa,Telecom,Mobile app redevelopment
+685,Project Atlas Migration,Amazon,2023-01-03,2024-05-12,Delayed,APAC,Banking,Core banking overhaul
+686,Project Titan Analytics,Walmart,2022-05-01,2022-07-29,Completed,Africa,Healthcare,E-commerce platform integration
+687,Project Nova Analytics,AT&T,2020-06-19,2020-12-07,On Track,APAC,Technology,Upgrading legacy systems
+688,Project Vantage Enhancement,Samsung,2020-09-16,2022-11-15,Proposed,APAC,Retail,E-commerce platform integration
+689,Project Helios Expansion,Volkswagen,2020-03-23,2023-10-14,On Track,APAC,Technology,E-commerce platform integration
+690,Project Gemini Integration,Microsoft,2021-03-16,2024-11-06,Delayed,Europe,Technology,Global ERP rollout
+691,Project Helios Analytics,Walmart,2021-05-03,2021-09-10,Delayed,Africa,Healthcare,Global ERP rollout
+692,Project Orion Upgrade,Apple,2021-08-14,2022-06-22,Proposed,Middle East,Retail,Cloud migration project
+693,Project Atlas Integration,Vodafone,2022-07-24,2024-11-09,On Track,APAC,Retail,Upgrading legacy systems
+694,Project Phoenix Upgrade,American Express,2023-08-27,2024-03-25,Proposed,Africa,Retail,Cloud migration project
+695,Project Helios Upgrade,Volkswagen,2022-08-09,2025-10-26,Delayed,Africa,Retail,Data center consolidation
+696,Project Titan Analytics,IBM,2023-04-28,2024-10-11,Cancelled,Latin America,Retail,Data center consolidation
+697,Project Helios Migration,Repsol,2021-06-18,2024-10-26,Cancelled,Middle East,Insurance,Global ERP rollout
+698,Project Atlas Upgrade,Emirates,2020-05-26,2021-08-10,Proposed,North America,Banking,Upgrading legacy systems
+699,Project Helios Integration,HSBC,2022-02-05,2025-05-10,Cancelled,Latin America,Retail,E-commerce platform integration
+700,Project Vantage Integration,American Express,2023-06-06,2024-05-19,Cancelled,Europe,Technology,Cloud migration project
+701,Project Atlas Migration,Samsung,2020-06-22,2021-06-25,Proposed,Africa,Insurance,Upgrading legacy systems
+702,Project Orion Upgrade,ExxonMobil,2022-12-30,2024-01-27,Delayed,North America,Banking,Data center consolidation
+703,Project Vantage Analytics,Banco Santander,2020-05-04,2024-06-20,Proposed,APAC,Energy,Mobile app redevelopment
+704,Project Gemini Integration,Banco Santander,2022-08-02,2022-10-26,Completed,Middle East,Technology,Mobile app redevelopment
+705,Project Nova Upgrade,Walmart,2020-10-22,2021-06-21,Delayed,North America,Telecom,Core banking overhaul
+706,Project Atlas Expansion,Volkswagen,2020-11-17,2024-08-01,Cancelled,Europe,Automotive,E-commerce platform integration
+707,Project Titan Enhancement,Repsol,2020-03-20,2020-12-01,Cancelled,Latin America,Retail,Cloud migration project
+708,Project Phoenix Migration,Novartis,2023-11-10,2025-11-20,Proposed,Middle East,Insurance,Cloud migration project
+709,Project Titan Expansion,Sony,2022-12-14,2023-04-03,Proposed,Latin America,Banking,Data center consolidation
+710,Project Phoenix Analytics,Pfizer,2020-01-12,2022-07-25,Proposed,Africa,Healthcare,E-commerce platform integration
+711,Project Atlas Analytics,HSBC,2023-11-11,2025-06-22,Completed,North America,Automotive,Core banking overhaul
+712,Project Helios Migration,Visa,2021-08-31,2022-08-07,Delayed,Latin America,Automotive,Cloud migration project
+713,Project Vantage Enhancement,SAP,2022-05-08,2023-06-03,Delayed,North America,Telecom,Cloud migration project
+714,Project Titan Expansion,AT&T,2022-07-15,2025-02-09,Delayed,North America,Insurance,Cloud migration project
+715,Project Helios Upgrade,Vodafone,2020-10-28,2025-06-10,On Track,Europe,Telecom,Analytics dashboards
+716,Project Nova Enhancement,Emirates,2021-04-29,2025-02-13,Completed,APAC,Banking,Data center consolidation
+717,Project Phoenix Migration,ExxonMobil,2022-01-12,2022-10-27,Completed,North America,Healthcare,Cloud migration project
+718,Project Gemini Integration,British Telecom,2023-04-08,2024-07-24,Cancelled,North America,Banking,Core banking overhaul
+719,Project Gemini Expansion,Samsung,2022-07-27,2024-01-31,Completed,Middle East,Energy,Data center consolidation
+720,Project Vantage Enhancement,Wells Fargo,2023-02-24,2023-08-17,Proposed,Latin America,Technology,Upgrading legacy systems
+721,Project Nova Integration,Samsung,2022-08-08,2022-12-24,Completed,APAC,Telecom,Cloud migration project
+722,Project Orion Analytics,Sony,2020-10-12,2025-11-20,Cancelled,Europe,Banking,Cloud migration project
+723,Project Gemini Integration,Vodafone,2023-01-22,2025-01-24,On Track,Africa,Healthcare,E-commerce platform integration
+724,Project Nova Analytics,HSBC,2021-07-16,2025-06-03,Proposed,Europe,Banking,E-commerce platform integration
+725,Project Phoenix Migration,Banco Santander,2023-08-15,2024-11-22,Delayed,Africa,Insurance,Analytics dashboards
+726,Project Orion Integration,Novartis,2020-03-27,2024-04-26,Delayed,Africa,Telecom,Global ERP rollout
+727,Project Helios Migration,Wells Fargo,2023-10-28,2025-11-07,Completed,Europe,Telecom,E-commerce platform integration
+728,Project Helios Expansion,Apple,2020-05-28,2020-06-17,Cancelled,APAC,Insurance,E-commerce platform integration
+729,Project Helios Expansion,Amazon,2022-02-04,2022-04-20,Completed,Africa,Automotive,E-commerce platform integration
+730,Project Titan Upgrade,ExxonMobil,2023-11-01,2024-08-11,Proposed,Middle East,Healthcare,Analytics dashboards
+731,Project Gemini Analytics,British Telecom,2023-09-09,2024-03-25,Delayed,Latin America,Banking,Data center consolidation
+732,Project Nova Integration,Wells Fargo,2021-04-03,2023-12-25,On Track,Middle East,Telecom,Cloud migration project
+733,Project Atlas Migration,British Telecom,2021-08-25,2023-02-14,Proposed,North America,Banking,Mobile app redevelopment
+734,Project Vantage Migration,Visa,2021-12-05,2024-05-31,Completed,Latin America,Healthcare,E-commerce platform integration
+735,Project Vantage Migration,HSBC,2023-02-25,2023-09-05,Delayed,Latin America,Retail,Core banking overhaul
+736,Project Helios Enhancement,Vodafone,2023-08-27,2023-10-08,Delayed,Europe,Banking,Cloud migration project
+737,Project Orion Analytics,HSBC,2022-08-20,2025-08-20,Completed,Africa,Retail,Cloud migration project
+738,Project Orion Expansion,Repsol,2020-12-01,2021-08-16,Delayed,North America,Retail,Analytics dashboards
+739,Project Orion Upgrade,Sony,2023-02-20,2024-04-29,Proposed,North America,Banking,Mobile app redevelopment
+740,Project Vantage Expansion,Nestle,2020-02-02,2022-01-01,Delayed,APAC,Healthcare,Cloud migration project
+741,Project Atlas Migration,Ford,2021-10-18,2023-01-27,On Track,Africa,Telecom,Global ERP rollout
+742,Project Orion Enhancement,Vodafone,2021-06-27,2024-07-28,On Track,Europe,Technology,Cloud migration project
+743,Project Phoenix Enhancement,Banco Santander,2022-08-20,2023-05-19,On Track,Africa,Insurance,Mobile app redevelopment
+744,Project Atlas Integration,Sony,2021-07-21,2023-11-20,Proposed,North America,Telecom,Mobile app redevelopment
+745,Project Phoenix Upgrade,Microsoft,2022-01-10,2025-12-28,Proposed,Africa,Energy,Data center consolidation
+746,Project Gemini Expansion,Microsoft,2021-01-07,2025-03-19,Cancelled,North America,Insurance,Core banking overhaul
+747,Project Gemini Analytics,Banco Santander,2020-07-23,2024-10-28,Cancelled,Middle East,Telecom,E-commerce platform integration
+748,Project Atlas Analytics,ExxonMobil,2022-03-30,2023-11-26,Completed,APAC,Retail,Global ERP rollout
+749,Project Atlas Analytics,Volkswagen,2022-01-19,2025-07-08,Completed,APAC,Technology,Global ERP rollout
+750,Project Titan Expansion,Amazon,2021-05-13,2022-03-12,Proposed,Europe,Healthcare,Mobile app redevelopment
+751,Project Vantage Upgrade,Novartis,2023-01-07,2024-06-07,Completed,Latin America,Insurance,Analytics dashboards
+752,Project Vantage Enhancement,American Express,2020-02-17,2024-08-22,Delayed,Middle East,Healthcare,E-commerce platform integration
+753,Project Titan Upgrade,Walmart,2020-09-13,2021-03-06,Cancelled,Europe,Insurance,Core banking overhaul
+754,Project Helios Integration,Vodafone,2023-04-15,2024-06-18,Cancelled,APAC,Retail,Mobile app redevelopment
+755,Project Atlas Migration,British Telecom,2021-10-03,2021-12-08,On Track,Middle East,Retail,Upgrading legacy systems
+756,Project Phoenix Expansion,Novartis,2021-06-08,2022-01-30,Completed,Middle East,Telecom,Global ERP rollout
+757,Project Orion Upgrade,SAP,2021-01-22,2022-12-01,Proposed,APAC,Technology,Upgrading legacy systems
+758,Project Atlas Integration,British Telecom,2020-11-27,2023-12-22,Proposed,Latin America,Energy,Upgrading legacy systems
+759,Project Gemini Analytics,Emirates,2023-04-09,2023-11-02,Cancelled,Europe,Healthcare,Data center consolidation
+760,Project Helios Migration,ExxonMobil,2021-11-07,2023-12-02,Delayed,North America,Retail,E-commerce platform integration
+761,Project Vantage Analytics,HSBC,2022-05-22,2022-11-26,Completed,APAC,Technology,Core banking overhaul
+762,Project Orion Migration,Novartis,2021-03-04,2021-07-24,Cancelled,North America,Telecom,Analytics dashboards
+763,Project Titan Analytics,IBM,2020-10-03,2024-06-27,Cancelled,Europe,Technology,Core banking overhaul
+764,Project Titan Upgrade,Repsol,2023-05-02,2025-07-02,Proposed,Latin America,Insurance,Global ERP rollout
+765,Project Vantage Analytics,Samsung,2022-10-09,2023-07-18,On Track,APAC,Energy,Core banking overhaul
+766,Project Titan Upgrade,Amazon,2022-10-04,2025-01-13,Delayed,Latin America,Energy,Analytics dashboards
+767,Project Vantage Migration,Ford,2020-04-02,2024-07-21,Cancelled,North America,Energy,Analytics dashboards
+768,Project Orion Enhancement,Nestle,2021-09-22,2024-10-23,Completed,APAC,Technology,Mobile app redevelopment
+769,Project Titan Integration,ExxonMobil,2023-10-09,2024-05-27,Proposed,APAC,Insurance,Analytics dashboards
+770,Project Gemini Expansion,Ford,2021-09-09,2023-11-02,On Track,North America,Insurance,Global ERP rollout
+771,Project Titan Enhancement,British Telecom,2020-02-04,2021-03-28,Completed,Africa,Energy,Upgrading legacy systems
+772,Project Helios Migration,Nestle,2022-07-12,2023-08-07,Completed,Middle East,Energy,Global ERP rollout
+773,Project Phoenix Expansion,IBM,2021-04-22,2022-10-07,On Track,Europe,Technology,Upgrading legacy systems
+774,Project Gemini Enhancement,IBM,2020-11-04,2022-03-27,Cancelled,North America,Insurance,Upgrading legacy systems
+775,Project Titan Integration,SAP,2021-01-31,2022-02-14,On Track,Latin America,Insurance,Core banking overhaul
+776,Project Atlas Expansion,Repsol,2022-10-31,2024-09-01,Cancelled,Europe,Telecom,E-commerce platform integration
+777,Project Vantage Analytics,Vodafone,2021-05-09,2024-05-21,On Track,Latin America,Automotive,Analytics dashboards
+778,Project Orion Enhancement,IBM,2022-08-27,2025-04-10,Delayed,Africa,Healthcare,Core banking overhaul
+779,Project Gemini Expansion,Coca-Cola,2021-07-14,2023-03-28,Delayed,Africa,Retail,Analytics dashboards
+780,Project Nova Analytics,Vodafone,2022-06-25,2025-09-07,Delayed,Africa,Banking,Upgrading legacy systems
+781,Project Gemini Enhancement,Samsung,2020-09-22,2025-04-12,Completed,North America,Telecom,Cloud migration project
+782,Project Titan Migration,JP Morgan Chase,2023-02-07,2025-02-15,On Track,APAC,Insurance,Data center consolidation
+783,Project Gemini Integration,Deutsche Telekom,2021-08-18,2024-11-13,On Track,APAC,Automotive,Data center consolidation
+784,Project Atlas Integration,American Express,2020-05-31,2021-04-18,On Track,Latin America,Banking,Mobile app redevelopment
+785,Project Gemini Migration,Nestle,2020-03-03,2022-04-27,On Track,Africa,Energy,Data center consolidation
+786,Project Gemini Migration,Microsoft,2023-01-04,2024-05-07,Completed,Africa,Telecom,Cloud migration project
+787,Project Helios Enhancement,ExxonMobil,2020-02-20,2025-02-20,On Track,North America,Insurance,Mobile app redevelopment
+788,Project Helios Upgrade,Deutsche Telekom,2023-04-11,2025-10-22,Cancelled,Middle East,Healthcare,Data center consolidation
+789,Project Orion Migration,IBM,2022-06-02,2024-07-15,On Track,North America,Telecom,Data center consolidation
+790,Project Gemini Enhancement,SAP,2022-06-26,2024-03-18,On Track,Europe,Insurance,E-commerce platform integration
+791,Project Nova Upgrade,Visa,2022-09-09,2025-11-03,Proposed,APAC,Telecom,E-commerce platform integration
+792,Project Vantage Analytics,Sony,2020-03-07,2023-04-15,Proposed,Africa,Insurance,Global ERP rollout
+793,Project Helios Enhancement,Emirates,2023-12-18,2024-12-30,On Track,Europe,Retail,Global ERP rollout
+794,Project Vantage Migration,Amazon,2020-06-09,2024-07-25,Delayed,North America,Energy,E-commerce platform integration
+795,Project Orion Enhancement,Deutsche Telekom,2020-09-06,2023-08-24,Proposed,North America,Technology,E-commerce platform integration
+796,Project Vantage Enhancement,Emirates,2023-10-18,2024-08-30,Proposed,APAC,Energy,Mobile app redevelopment
+797,Project Phoenix Analytics,American Express,2022-07-08,2023-10-22,Cancelled,Middle East,Technology,Data center consolidation
+798,Project Gemini Migration,HSBC,2022-03-11,2024-04-20,Delayed,APAC,Automotive,Cloud migration project
+799,Project Nova Analytics,Banco Santander,2022-06-24,2023-06-26,Cancelled,North America,Automotive,Data center consolidation
+800,Project Helios Expansion,Sony,2021-12-26,2024-01-07,Delayed,APAC,Retail,Global ERP rollout
+801,Project Phoenix Analytics,Pfizer,2023-11-08,2025-09-30,Delayed,North America,Retail,Mobile app redevelopment
+802,Project Titan Migration,Deutsche Telekom,2023-10-26,2025-08-01,Completed,Latin America,Automotive,Data center consolidation
+803,Project Orion Upgrade,Apple,2022-04-25,2024-12-26,On Track,APAC,Insurance,Mobile app redevelopment
+804,Project Phoenix Integration,ExxonMobil,2023-07-16,2024-10-10,On Track,Middle East,Technology,Data center consolidation
+805,Project Orion Integration,ExxonMobil,2021-07-06,2023-10-03,Proposed,APAC,Insurance,Data center consolidation
+806,Project Titan Migration,Novartis,2021-06-20,2022-09-25,Delayed,North America,Energy,Global ERP rollout
+807,Project Atlas Analytics,Deutsche Telekom,2022-11-06,2023-02-06,Delayed,Africa,Healthcare,Global ERP rollout
+808,Project Phoenix Expansion,Apple,2022-12-13,2025-09-13,Cancelled,Africa,Healthcare,Global ERP rollout
+809,Project Atlas Enhancement,Walmart,2023-02-04,2023-12-03,On Track,North America,Automotive,Data center consolidation
+810,Project Nova Upgrade,Walmart,2021-12-01,2023-07-17,Proposed,North America,Healthcare,E-commerce platform integration
+811,Project Atlas Analytics,ExxonMobil,2023-04-19,2025-01-08,On Track,Middle East,Telecom,Core banking overhaul
+812,Project Helios Integration,SAP,2023-09-18,2024-11-01,Completed,Latin America,Retail,E-commerce platform integration
+813,Project Phoenix Integration,Emirates,2020-04-21,2023-09-02,Completed,Africa,Insurance,Upgrading legacy systems
+814,Project Atlas Migration,Emirates,2020-02-04,2021-08-02,Completed,Africa,Insurance,Analytics dashboards
+815,Project Vantage Enhancement,HSBC,2023-09-12,2025-03-18,Cancelled,APAC,Healthcare,Analytics dashboards
+816,Project Nova Integration,Apple,2022-12-17,2023-10-13,Proposed,APAC,Insurance,Cloud migration project
+817,Project Titan Enhancement,Visa,2021-05-17,2021-10-15,Completed,Europe,Retail,Upgrading legacy systems
+818,Project Atlas Enhancement,Microsoft,2020-01-18,2024-01-15,Completed,Middle East,Healthcare,Core banking overhaul
+819,Project Atlas Analytics,Apple,2021-12-16,2024-06-22,Cancelled,Europe,Retail,Data center consolidation
+820,Project Atlas Analytics,ExxonMobil,2021-09-26,2024-05-02,On Track,Middle East,Technology,Core banking overhaul
+821,Project Nova Analytics,ExxonMobil,2021-04-04,2021-09-09,Delayed,Middle East,Technology,Analytics dashboards
+822,Project Gemini Expansion,Wells Fargo,2020-04-22,2022-12-03,Delayed,APAC,Automotive,Global ERP rollout
+823,Project Orion Analytics,Novartis,2023-12-05,2024-08-28,Completed,Africa,Retail,E-commerce platform integration
+824,Project Orion Analytics,AT&T,2023-06-10,2024-04-07,On Track,Africa,Insurance,Global ERP rollout
+825,Project Atlas Expansion,Volkswagen,2022-12-14,2025-04-18,On Track,Europe,Automotive,Core banking overhaul
+826,Project Gemini Expansion,Microsoft,2021-09-13,2023-12-26,Proposed,Africa,Retail,Core banking overhaul
+827,Project Vantage Enhancement,JP Morgan Chase,2021-02-25,2023-07-05,On Track,Latin America,Retail,Core banking overhaul
+828,Project Phoenix Migration,SAP,2022-11-17,2024-07-30,Delayed,Latin America,Insurance,Data center consolidation
+829,Project Orion Expansion,Novartis,2020-06-01,2023-12-21,Proposed,Middle East,Banking,Cloud migration project
+830,Project Nova Migration,Vodafone,2021-10-24,2022-10-12,Delayed,Europe,Telecom,Core banking overhaul
+831,Project Vantage Expansion,American Express,2021-05-27,2021-11-18,Completed,North America,Banking,E-commerce platform integration
+832,Project Atlas Integration,Apple,2021-11-18,2024-05-25,Completed,APAC,Healthcare,E-commerce platform integration
+833,Project Orion Integration,ExxonMobil,2023-06-06,2025-10-30,On Track,Latin America,Banking,Analytics dashboards
+834,Project Orion Integration,Samsung,2020-03-27,2023-10-30,Cancelled,Middle East,Retail,Core banking overhaul
+835,Project Phoenix Analytics,IBM,2023-06-07,2025-05-01,Cancelled,Africa,Healthcare,Analytics dashboards
+836,Project Titan Expansion,Sony,2020-04-30,2022-05-20,Proposed,Middle East,Banking,Data center consolidation
+837,Project Gemini Enhancement,American Express,2023-02-24,2023-05-16,Proposed,Europe,Technology,Upgrading legacy systems
+838,Project Orion Expansion,American Express,2022-09-17,2025-01-14,Cancelled,North America,Banking,Upgrading legacy systems
+839,Project Helios Enhancement,Coca-Cola,2021-12-02,2023-05-15,On Track,Africa,Banking,Cloud migration project
+840,Project Titan Enhancement,JP Morgan Chase,2021-06-08,2025-10-24,Delayed,North America,Healthcare,Global ERP rollout
+841,Project Orion Analytics,Wells Fargo,2022-04-23,2024-07-23,On Track,Europe,Telecom,Core banking overhaul
+842,Project Helios Upgrade,British Telecom,2023-12-26,2025-01-27,Proposed,North America,Insurance,Upgrading legacy systems
+843,Project Atlas Upgrade,Amazon,2020-06-14,2023-07-16,Delayed,Europe,Healthcare,Core banking overhaul
+844,Project Vantage Expansion,Repsol,2021-09-13,2022-02-28,Proposed,North America,Banking,Core banking overhaul
+845,Project Vantage Analytics,Vodafone,2021-04-08,2021-10-04,On Track,Middle East,Insurance,Upgrading legacy systems
+846,Project Orion Upgrade,Visa,2023-09-05,2024-04-04,Proposed,North America,Telecom,Cloud migration project
+847,Project Helios Enhancement,Walmart,2023-06-03,2024-05-13,Proposed,Europe,Technology,Core banking overhaul
+848,Project Helios Expansion,Repsol,2023-08-13,2024-09-17,On Track,Latin America,Automotive,Upgrading legacy systems
+849,Project Phoenix Expansion,SAP,2023-11-16,2025-04-20,Delayed,Middle East,Banking,E-commerce platform integration
+850,Project Atlas Analytics,Wells Fargo,2021-07-08,2025-01-30,Delayed,Africa,Retail,Analytics dashboards
+851,Project Vantage Integration,HSBC,2021-09-02,2023-08-26,Completed,APAC,Retail,Mobile app redevelopment
+852,Project Helios Integration,Banco Santander,2021-04-24,2025-08-23,Delayed,Latin America,Energy,E-commerce platform integration
+853,Project Phoenix Expansion,AT&T,2022-10-18,2025-06-05,Proposed,Latin America,Banking,Core banking overhaul
+854,Project Nova Migration,Nestle,2021-10-25,2023-10-12,Cancelled,North America,Automotive,Cloud migration project
+855,Project Orion Upgrade,HSBC,2023-11-19,2024-01-17,Completed,Middle East,Insurance,Core banking overhaul
+856,Project Atlas Analytics,Novartis,2022-05-09,2023-01-03,Proposed,Africa,Insurance,Mobile app redevelopment
+857,Project Phoenix Migration,Samsung,2021-01-02,2021-04-27,Delayed,North America,Insurance,Core banking overhaul
+858,Project Orion Expansion,Volkswagen,2021-02-09,2022-04-23,Cancelled,APAC,Retail,Cloud migration project
+859,Project Orion Expansion,Banco Santander,2022-05-11,2024-08-08,Cancelled,Africa,Insurance,E-commerce platform integration
+860,Project Gemini Enhancement,Apple,2022-03-01,2024-02-19,Proposed,Middle East,Banking,Cloud migration project
+861,Project Vantage Enhancement,Wells Fargo,2021-04-13,2023-06-08,Cancelled,Latin America,Technology,Mobile app redevelopment
+862,Project Atlas Migration,Emirates,2020-03-27,2025-08-30,Delayed,Latin America,Energy,Upgrading legacy systems
+863,Project Atlas Upgrade,Novartis,2022-02-20,2023-07-08,Cancelled,Europe,Retail,Core banking overhaul
+864,Project Nova Integration,IBM,2022-01-08,2022-10-14,Proposed,North America,Banking,E-commerce platform integration
+865,Project Helios Upgrade,Nestle,2020-01-30,2022-05-19,Cancelled,North America,Energy,Cloud migration project
+866,Project Vantage Analytics,IBM,2023-05-11,2024-05-15,Completed,Latin America,Banking,Global ERP rollout
+867,Project Phoenix Analytics,Deutsche Telekom,2020-12-27,2021-10-20,Proposed,Latin America,Retail,E-commerce platform integration
+868,Project Atlas Migration,Walmart,2023-11-03,2024-09-18,On Track,Europe,Banking,Mobile app redevelopment
+869,Project Orion Enhancement,Deutsche Telekom,2023-06-24,2025-12-03,Completed,North America,Healthcare,Analytics dashboards
+870,Project Phoenix Enhancement,American Express,2023-05-24,2025-09-04,On Track,Europe,Energy,Mobile app redevelopment
+871,Project Atlas Migration,Vodafone,2020-01-26,2023-04-20,Proposed,APAC,Energy,Cloud migration project
+872,Project Titan Upgrade,Repsol,2023-03-24,2023-07-28,Completed,Latin America,Retail,E-commerce platform integration
+873,Project Helios Upgrade,Banco Santander,2020-01-26,2023-08-19,On Track,Europe,Technology,Analytics dashboards
+874,Project Gemini Analytics,IBM,2021-09-06,2023-04-25,Completed,Africa,Technology,Data center consolidation
+875,Project Helios Integration,Walmart,2022-05-04,2023-05-11,Proposed,APAC,Banking,Mobile app redevelopment
+876,Project Gemini Integration,Vodafone,2020-12-19,2022-01-19,Completed,APAC,Telecom,Analytics dashboards
+877,Project Helios Expansion,AT&T,2022-12-27,2025-11-03,Proposed,Europe,Energy,Cloud migration project
+878,Project Gemini Expansion,Banco Santander,2023-04-01,2025-08-11,Delayed,Latin America,Energy,Cloud migration project
+879,Project Titan Integration,Pfizer,2023-03-30,2023-04-25,Proposed,North America,Insurance,Core banking overhaul
+880,Project Helios Upgrade,Volkswagen,2023-08-01,2024-01-02,Delayed,Latin America,Automotive,Upgrading legacy systems
+881,Project Atlas Enhancement,Pfizer,2021-01-27,2022-07-23,Completed,North America,Telecom,Upgrading legacy systems
+882,Project Phoenix Analytics,SAP,2023-06-28,2025-03-27,Cancelled,Africa,Telecom,E-commerce platform integration
+883,Project Nova Upgrade,Vodafone,2022-08-30,2024-04-12,Cancelled,Africa,Banking,Cloud migration project
+884,Project Orion Migration,Amazon,2020-02-20,2023-09-01,Delayed,Africa,Energy,Upgrading legacy systems
+885,Project Nova Integration,Vodafone,2020-12-21,2023-02-09,On Track,Latin America,Telecom,Cloud migration project
+886,Project Gemini Integration,Vodafone,2021-11-25,2024-07-06,Delayed,Latin America,Telecom,Data center consolidation
+887,Project Titan Analytics,Volkswagen,2023-09-27,2024-07-10,Delayed,North America,Telecom,Analytics dashboards
+888,Project Phoenix Migration,SAP,2023-08-11,2025-01-27,Completed,Africa,Automotive,Core banking overhaul
+889,Project Nova Expansion,Coca-Cola,2020-02-15,2024-06-23,On Track,Europe,Energy,Mobile app redevelopment
+890,Project Atlas Analytics,Sony,2022-08-08,2023-07-29,Delayed,APAC,Automotive,Mobile app redevelopment
+891,Project Titan Migration,IBM,2020-01-31,2021-09-19,Cancelled,Latin America,Automotive,Core banking overhaul
+892,Project Atlas Migration,Visa,2023-01-23,2024-04-11,Delayed,Middle East,Technology,Global ERP rollout
+893,Project Phoenix Migration,AT&T,2021-05-07,2023-01-01,Proposed,Middle East,Telecom,Cloud migration project
+894,Project Orion Migration,Visa,2020-08-12,2022-11-25,Completed,Middle East,Automotive,Cloud migration project
+895,Project Phoenix Upgrade,Walmart,2020-04-12,2021-07-15,Completed,North America,Technology,Mobile app redevelopment
+896,Project Phoenix Integration,Visa,2022-08-30,2023-04-18,Completed,Europe,Telecom,E-commerce platform integration
+897,Project Vantage Upgrade,JP Morgan Chase,2022-02-28,2024-08-28,Cancelled,Europe,Healthcare,E-commerce platform integration
+898,Project Helios Integration,JP Morgan Chase,2021-06-24,2025-06-23,Proposed,Europe,Insurance,Analytics dashboards
+899,Project Nova Upgrade,Pfizer,2020-11-05,2023-12-12,Cancelled,Latin America,Automotive,Analytics dashboards
+900,Project Helios Enhancement,American Express,2023-12-02,2024-07-12,Completed,Middle East,Energy,Core banking overhaul
+901,Project Titan Integration,Amazon,2020-10-12,2022-01-26,Proposed,Africa,Banking,Global ERP rollout
+902,Project Helios Upgrade,Amazon,2021-05-18,2022-09-02,Delayed,Europe,Automotive,Mobile app redevelopment
+903,Project Vantage Expansion,ExxonMobil,2023-07-29,2023-11-24,Proposed,Africa,Energy,Data center consolidation
+904,Project Orion Upgrade,Wells Fargo,2022-07-09,2024-09-02,Proposed,Latin America,Retail,E-commerce platform integration
+905,Project Helios Integration,Novartis,2023-09-06,2024-04-03,Completed,Middle East,Energy,Core banking overhaul
+906,Project Titan Migration,JP Morgan Chase,2022-08-22,2023-12-27,Completed,Middle East,Retail,Analytics dashboards
+907,Project Titan Enhancement,Banco Santander,2022-12-10,2023-11-19,Proposed,APAC,Healthcare,Global ERP rollout
+908,Project Orion Enhancement,Samsung,2021-01-24,2025-04-11,Delayed,North America,Healthcare,Mobile app redevelopment
+909,Project Helios Migration,Repsol,2023-06-09,2024-05-19,Cancelled,Latin America,Automotive,Core banking overhaul
+910,Project Helios Migration,Apple,2020-01-07,2023-10-06,On Track,Africa,Healthcare,Global ERP rollout
+911,Project Titan Migration,Repsol,2022-09-24,2022-12-31,Completed,Europe,Retail,Mobile app redevelopment
+912,Project Titan Migration,Wells Fargo,2023-08-31,2025-02-28,Delayed,APAC,Technology,Cloud migration project
+913,Project Titan Migration,Pfizer,2021-02-21,2025-05-04,On Track,APAC,Telecom,Upgrading legacy systems
+914,Project Atlas Analytics,ExxonMobil,2022-03-15,2022-11-05,Completed,Latin America,Insurance,Global ERP rollout
+915,Project Orion Enhancement,JP Morgan Chase,2022-03-18,2022-10-27,Proposed,Europe,Insurance,E-commerce platform integration
+916,Project Helios Expansion,Coca-Cola,2022-10-10,2024-05-06,Delayed,North America,Energy,Global ERP rollout
+917,Project Atlas Enhancement,British Telecom,2022-05-15,2024-02-24,Proposed,Latin America,Retail,Mobile app redevelopment
+918,Project Helios Enhancement,Amazon,2021-11-15,2025-09-30,Cancelled,Latin America,Insurance,Cloud migration project
+919,Project Gemini Migration,JP Morgan Chase,2022-11-19,2023-10-28,Delayed,Africa,Telecom,Mobile app redevelopment
+920,Project Atlas Upgrade,Microsoft,2020-09-19,2024-10-26,Proposed,Africa,Telecom,Data center consolidation
+921,Project Orion Enhancement,SAP,2023-10-06,2024-06-19,Proposed,Africa,Automotive,Upgrading legacy systems
+922,Project Titan Analytics,Pfizer,2023-04-14,2025-02-06,Completed,North America,Retail,Data center consolidation
+923,Project Atlas Integration,Apple,2021-11-06,2024-09-27,Delayed,Middle East,Telecom,Core banking overhaul
+924,Project Titan Analytics,JP Morgan Chase,2020-02-08,2021-01-07,On Track,Africa,Technology,Cloud migration project
+925,Project Gemini Upgrade,Pfizer,2023-12-18,2025-04-17,On Track,North America,Technology,Core banking overhaul
+926,Project Phoenix Integration,Nestle,2022-03-20,2025-07-06,Delayed,North America,Telecom,Mobile app redevelopment
+927,Project Gemini Analytics,Volkswagen,2023-07-06,2025-08-08,Cancelled,Europe,Energy,Upgrading legacy systems
+928,Project Gemini Integration,Emirates,2023-09-14,2025-07-13,Delayed,North America,Insurance,Data center consolidation
+929,Project Gemini Analytics,British Telecom,2022-04-29,2024-04-16,Cancelled,North America,Retail,Global ERP rollout
+930,Project Titan Enhancement,AT&T,2020-08-23,2025-04-13,Completed,Latin America,Technology,Data center consolidation
+931,Project Titan Enhancement,HSBC,2022-05-12,2024-07-28,Cancelled,Africa,Automotive,Analytics dashboards
+932,Project Gemini Integration,Apple,2023-01-31,2024-02-23,Completed,Middle East,Banking,Cloud migration project
+933,Project Orion Expansion,Sony,2020-08-29,2024-04-07,Delayed,Middle East,Retail,E-commerce platform integration
+934,Project Nova Upgrade,Apple,2023-08-29,2023-09-19,On Track,Latin America,Healthcare,E-commerce platform integration
+935,Project Vantage Migration,Amazon,2020-09-21,2024-03-14,Proposed,APAC,Telecom,Analytics dashboards
+936,Project Titan Expansion,ExxonMobil,2021-03-23,2021-07-26,Delayed,APAC,Energy,Mobile app redevelopment
+937,Project Titan Expansion,Nestle,2020-05-24,2023-11-02,Completed,Latin America,Energy,Analytics dashboards
+938,Project Titan Analytics,IBM,2021-07-02,2023-01-02,Delayed,North America,Automotive,Analytics dashboards
+939,Project Helios Enhancement,American Express,2022-10-07,2024-05-25,Proposed,North America,Healthcare,Analytics dashboards
+940,Project Helios Migration,Sony,2020-08-15,2023-02-25,Cancelled,Latin America,Insurance,E-commerce platform integration
+941,Project Gemini Enhancement,Coca-Cola,2021-06-27,2022-06-19,Delayed,APAC,Retail,E-commerce platform integration
+942,Project Helios Integration,Emirates,2023-04-24,2024-02-06,Proposed,Latin America,Automotive,Analytics dashboards
+943,Project Orion Analytics,IBM,2021-12-04,2022-07-27,Cancelled,Africa,Energy,Mobile app redevelopment
+944,Project Orion Enhancement,Coca-Cola,2023-05-13,2025-02-23,Proposed,APAC,Healthcare,Upgrading legacy systems
+945,Project Titan Analytics,IBM,2022-07-01,2024-12-01,Delayed,Latin America,Technology,Analytics dashboards
+946,Project Vantage Integration,Samsung,2020-07-05,2021-02-07,Cancelled,North America,Automotive,Upgrading legacy systems
+947,Project Helios Analytics,Walmart,2022-09-05,2023-07-11,On Track,North America,Telecom,Core banking overhaul
+948,Project Titan Analytics,Walmart,2022-01-19,2025-08-09,Delayed,Middle East,Energy,Analytics dashboards
+949,Project Orion Integration,Microsoft,2023-10-21,2025-12-29,Delayed,APAC,Energy,E-commerce platform integration
+950,Project Gemini Upgrade,Amazon,2023-07-28,2025-08-17,Proposed,Europe,Insurance,Mobile app redevelopment
+951,Project Gemini Analytics,American Express,2023-11-30,2024-01-28,Proposed,North America,Insurance,Cloud migration project
+952,Project Helios Migration,Apple,2022-07-11,2022-12-29,On Track,Europe,Banking,Cloud migration project
+953,Project Vantage Enhancement,Banco Santander,2023-04-28,2025-10-23,Proposed,Latin America,Healthcare,Global ERP rollout
+954,Project Gemini Integration,British Telecom,2023-05-11,2025-06-20,Delayed,North America,Healthcare,E-commerce platform integration
+955,Project Vantage Enhancement,Nestle,2021-11-29,2024-02-28,Completed,Europe,Telecom,Data center consolidation
+956,Project Orion Enhancement,Wells Fargo,2023-12-02,2024-11-11,On Track,Africa,Energy,Mobile app redevelopment
+957,Project Nova Integration,Walmart,2021-07-14,2021-09-23,Delayed,Latin America,Retail,Core banking overhaul
+958,Project Orion Integration,Walmart,2020-03-27,2021-01-17,Proposed,Europe,Banking,Analytics dashboards
+959,Project Helios Expansion,Visa,2023-04-25,2025-11-29,Delayed,Africa,Energy,Core banking overhaul
+960,Project Nova Enhancement,JP Morgan Chase,2020-05-18,2020-12-16,Completed,Africa,Telecom,Mobile app redevelopment
+961,Project Atlas Migration,Walmart,2022-11-04,2025-02-22,Completed,Africa,Banking,Cloud migration project
+962,Project Helios Upgrade,Ford,2023-03-08,2025-12-26,On Track,North America,Telecom,Global ERP rollout
+963,Project Titan Analytics,IBM,2022-09-07,2023-11-21,On Track,Africa,Retail,Global ERP rollout
+964,Project Phoenix Migration,Samsung,2021-02-08,2023-01-01,Cancelled,Latin America,Automotive,Upgrading legacy systems
+965,Project Orion Expansion,British Telecom,2023-07-15,2023-11-01,Completed,Europe,Banking,Analytics dashboards
+966,Project Vantage Analytics,Vodafone,2022-04-13,2023-09-06,Proposed,APAC,Technology,Mobile app redevelopment
+967,Project Orion Upgrade,Volkswagen,2022-10-09,2023-03-21,Delayed,Europe,Insurance,Data center consolidation
+968,Project Nova Enhancement,Visa,2020-12-01,2021-08-11,Delayed,Africa,Energy,Mobile app redevelopment
+969,Project Titan Analytics,AT&T,2020-10-24,2025-11-23,Delayed,North America,Energy,Global ERP rollout
+970,Project Gemini Enhancement,HSBC,2023-02-18,2024-04-13,On Track,North America,Technology,Global ERP rollout
+971,Project Titan Migration,HSBC,2022-08-15,2025-12-04,Proposed,APAC,Retail,Mobile app redevelopment
+972,Project Vantage Integration,Visa,2022-05-20,2022-07-12,On Track,Africa,Retail,Global ERP rollout
+973,Project Helios Integration,HSBC,2022-01-08,2024-01-08,Completed,North America,Automotive,Upgrading legacy systems
+974,Project Phoenix Analytics,Wells Fargo,2023-06-14,2025-12-11,On Track,APAC,Banking,Global ERP rollout
+975,Project Phoenix Migration,Emirates,2020-11-06,2023-05-16,On Track,APAC,Insurance,Analytics dashboards
+976,Project Phoenix Migration,Ford,2023-09-03,2024-11-30,Proposed,Middle East,Retail,Global ERP rollout
+977,Project Vantage Expansion,Visa,2020-12-09,2022-09-08,Proposed,North America,Technology,Upgrading legacy systems
+978,Project Atlas Expansion,Amazon,2020-10-17,2023-09-13,Proposed,APAC,Telecom,E-commerce platform integration
+979,Project Phoenix Integration,Microsoft,2022-10-29,2023-08-30,Delayed,APAC,Telecom,E-commerce platform integration
+980,Project Titan Expansion,Coca-Cola,2023-05-26,2024-08-14,Proposed,North America,Telecom,Core banking overhaul
+981,Project Gemini Expansion,American Express,2022-07-22,2022-08-13,Delayed,Latin America,Telecom,Analytics dashboards
+982,Project Phoenix Migration,Repsol,2021-05-09,2024-09-05,Proposed,Africa,Telecom,Data center consolidation
+983,Project Vantage Enhancement,Visa,2020-04-14,2020-11-29,Cancelled,APAC,Healthcare,Cloud migration project
+984,Project Gemini Enhancement,American Express,2022-12-25,2023-06-10,Proposed,Europe,Insurance,Data center consolidation
+985,Project Nova Upgrade,Volkswagen,2022-12-23,2024-03-07,Delayed,Latin America,Energy,Global ERP rollout
+986,Project Vantage Upgrade,HSBC,2023-01-19,2025-04-23,Cancelled,Europe,Technology,Analytics dashboards
+987,Project Vantage Enhancement,Samsung,2023-09-30,2025-04-30,Cancelled,Africa,Insurance,Upgrading legacy systems
+988,Project Gemini Analytics,Apple,2021-04-18,2024-10-11,Completed,Middle East,Healthcare,Mobile app redevelopment
+989,Project Titan Analytics,Banco Santander,2020-05-04,2024-01-26,Cancelled,North America,Retail,E-commerce platform integration
+990,Project Orion Migration,Banco Santander,2021-09-11,2024-03-19,Cancelled,North America,Healthcare,Data center consolidation
+991,Project Vantage Expansion,Repsol,2022-02-03,2025-12-19,Cancelled,North America,Insurance,Mobile app redevelopment
+992,Project Gemini Expansion,Deutsche Telekom,2020-11-02,2022-01-12,On Track,Middle East,Banking,Analytics dashboards
+993,Project Phoenix Enhancement,Apple,2021-07-12,2023-02-28,On Track,Middle East,Telecom,Global ERP rollout
+994,Project Orion Analytics,Samsung,2021-07-21,2023-05-13,Proposed,North America,Telecom,Analytics dashboards
+995,Project Vantage Enhancement,Banco Santander,2023-05-21,2025-03-31,Completed,Latin America,Banking,Core banking overhaul
+996,Project Orion Enhancement,SAP,2020-07-28,2024-05-30,Delayed,Africa,Telecom,Cloud migration project
+997,Project Orion Expansion,Microsoft,2022-04-14,2024-04-28,Delayed,APAC,Telecom,Core banking overhaul
+998,Project Vantage Integration,IBM,2023-06-20,2024-10-22,Delayed,Middle East,Energy,Cloud migration project
+999,Project Nova Expansion,Coca-Cola,2022-11-09,2025-10-25,Proposed,North America,Banking,Upgrading legacy systems
+1000,Project Phoenix Migration,Sony,2021-08-01,2022-04-21,Completed,Latin America,Banking,Global ERP rollout
